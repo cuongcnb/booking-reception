@@ -1,0 +1,2291 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: Hoang Anh Dinh Trinh <anh.dth@citigo.com.vn>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+msgid " - Nhà bếp"
+msgstr " - Kitchen"
+
+msgid " Không có kết nối internet"
+msgstr " No Internet connection"
+
+msgid " SL từ "
+msgstr " Qty from "
+
+msgid " hóa đơn"
+msgstr " invoice(s)"
+
+msgid " thành công"
+msgstr " successful"
+
+msgid " tạm tính"
+msgstr " draft invoice"
+
+msgid " đã bị xóa"
+msgstr " has been deleted"
+
+msgid " đã tồn tại trong đơn hàng"
+msgstr " has already existed in the order"
+
+msgid "---Tất cả---"
+msgstr "---All---"
+
+msgid "App KiotViet Bán hàng"
+msgstr "KiotViet Sale app"
+
+msgid "Bàn chưa có hóa đơn nào"
+msgstr "Table has no invoice"
+
+msgid "Bán hàng"
+msgstr "Sale"
+
+msgid "Báo bếp khi thanh toán"
+msgstr "Notify kitchen when making payment"
+
+msgid "Báo bếp khi thanh toán ."
+msgstr "Notify kitchen when making payment ."
+
+msgid "Báo cáo cuối ngày"
+msgstr "End of day report"
+
+msgid "Bạn chưa chọn Khách hàng để tích điểm"
+msgstr "Customer is required to add loyalty points"
+
+msgid "Bạn chưa chọn hàng khuyến mại"
+msgstr "Please select the bonus item(s)"
+
+msgid "Bạn chưa chọn khách hàng"
+msgstr "Customer is required"
+
+msgid "Bạn chưa chọn sản phẩm khuyến mại"
+msgstr "Please select promotional item(s)"
+
+msgid "Bạn chưa nhập Khu vực"
+msgstr "Location is required"
+
+msgid "Bạn chưa nhập Phường xã"
+msgstr "Ward is required"
+
+msgid "Bạn chưa nhập Tên khách hàng"
+msgstr "Customer name is required"
+
+msgid "Bạn chưa nhập giá trị Thu từ khách"
+msgstr "Payment amount should not be blank"
+
+msgid "Bạn chưa nhập số lượng trả món"
+msgstr "You have not entered served amount"
+
+msgid "Bạn chưa nhập thông tin khách hàng"
+msgstr "Customer information is empty"
+
+msgid "Bạn chưa nhập thời gian lọc"
+msgstr "Time of filter is empty"
+
+msgid "Bạn chưa nhập tên Đối tác giao hàng"
+msgstr "Delivery partner name is required"
+
+msgid "Bạn chỉ có thể xóa phiếu đặt bạn tạo."
+msgstr "You can only delete the reservation you created."
+
+msgid ""
+"Bạn chỉ được chọn 1 chương trình khuyến mại Giảm giá/Đồng giá (theo SL mua)"
+msgstr ""
+"You can only choose one promotion Discount/Same price (by purchase quantity)"
+
+msgid "Bạn có chắc chắn muốn cập nhật không"
+msgstr "Are you sure you want to update"
+
+msgid "Bạn có chắc chắn muốn giảm số lượng của món"
+msgstr "Are you sure you want to reduce quantity of item"
+
+msgid "Bạn có chắc chắn muốn hủy món"
+msgstr "Are you sure you want to cancel"
+
+msgid "Bạn có chắc chắn muốn hủy order này không?"
+msgstr "Are you sure you want to cancel this order?"
+
+msgid ""
+"Bạn có chắc chắn muốn loại bỏ hàng hóa này khỏi danh sách không hiển thị "
+"trên Bếp?"
+msgstr ""
+"Are you sure you want to remove this item from the list that is not showing "
+"on the Kitchen?"
+
+msgid "Bạn có chắc chắn muốn thanh toán?"
+msgstr "Are you sure you want to make payment?"
+
+msgid "Bạn có chắc chắn muốn tách đơn"
+msgstr "Are you sure you want to split the order"
+
+msgid "Bạn có chắc chắn muốn xóa đặt bàn"
+msgstr "Are you sure you want to delete reservation"
+
+msgid "Bạn có chắc chắn muốn đóng đơn trả hàng không?"
+msgstr "Are you sure you want to cancel return invoice?"
+
+msgid "Bạn có chắc chắn áp dụng khuyến mại không"
+msgstr "Are you sure you want to apply promotion"
+
+msgid "Bạn vui lòng đợi ít phút để hệ thống ổn định trước khi đồng bộ!"
+msgstr "Please wait a few minutes for the system to stabilize before syncing!"
+
+msgid "Bạn vừa chuyển sang chi nhánh"
+msgstr "You have just switched to outlet"
+
+msgid "Bạn vừa cập nhật đơn hàng. Click"
+msgstr "You have  just updated the order. Click"
+
+msgid "Bạn vừa xóa hết hàng trong đơn. Hủy đơn hàng ngay bây giờ?"
+msgstr "You have just deleted all the items in the order. Cancel order now?"
+
+msgid "Bạn đang offline Sẽ lưu các thay đổi tại máy."
+msgstr "There is no connection All changes still be saved offline."
+
+msgid "Bạn đang offline. Sẽ lưu các thay đổi tại máy."
+msgstr "You are offline. Will save the changes at the machine."
+
+msgid "Bảng giá chung"
+msgstr "General price book"
+
+msgid "Bật chuông"
+msgstr "Turn on the bell"
+
+msgid "Bật chế độ tự động in"
+msgstr "Turn on auto-print mode"
+
+msgid "Bỏ chọn nhóm hàng"
+msgstr "Unselect product category"
+
+msgid "Bỏ chọn phòng/bàn"
+msgstr "Unselect room/table"
+
+msgid "Bỏ qua"
+msgstr "Cancel"
+
+msgid "Bỏ toàn màn hình"
+msgstr "Exit fullscreen"
+
+msgid "Bỏ áp dụng khuyến mại"
+msgstr "Cancel promotions"
+
+msgid ""
+"Bộ nhớ trống ổ C không đủ để hệ thống thực hiện tốt các tính năng trên màn "
+"hình bán hàng. Xin vui lòng xóa bớt dữ liệu không sử dụng và nhấn phím F5 để "
+"tiếp tục bán hàng"
+msgstr ""
+"The space on C drive is insufficient for the system to perform well on the "
+"sales screen. Please delete the unused data and press F5 key to continue the "
+"sale"
+
+msgid "Bởi"
+msgstr "By"
+
+msgid "Can tra khach"
+msgstr "Total refund"
+
+msgid "Chi nhánh"
+msgstr "Outlet"
+
+msgid "Chuyển khoản"
+msgstr "Bank transfer"
+
+msgid "Chuyển đến"
+msgstr "To"
+
+msgid "Chuyển đổi giữa chế độ xem lịch và chế độ xem danh sách"
+msgstr "Switch between calendar and list view mode"
+
+msgid "Chúng tôi luôn sẵn sàng hỗ trợ Quý khách tại Hotline:"
+msgstr "We are always ready to assist you at the Hotline:"
+
+msgid "Chưa chọn hàng để thanh toán."
+msgstr "No item selected to make payment."
+
+msgid "Chưa chọn hóa đơn để thực hiện ghép hóa đơn"
+msgstr "No invoice selected to merge the invoice"
+
+msgid "Chưa chọn món để tách"
+msgstr "No item selected to split"
+
+msgid "Chưa chọn phòng/bàn để tách đến"
+msgstr "Please select room/table to split to"
+
+msgid "Chưa có thực đơn nào"
+msgstr "There are no products."
+
+msgid "Chưa có đơn hàng cần chế biến"
+msgstr "There are no order for processing"
+
+msgid "Chưa có đơn hàng cần cung ứng"
+msgstr "There are no orders need to provide"
+
+msgid "Chưa sử dụng"
+msgstr "Free"
+
+msgid "Chưa thanh toán"
+msgstr "Unpaid"
+
+msgid "Chưa đăng nhập vào ứng dụng"
+msgstr "Please sign in"
+
+msgid "Chấp nhận"
+msgstr "Accept"
+
+msgid "Chắc chắn"
+msgstr "Sure"
+
+msgid "Chế biến xong một"
+msgstr "Processed one"
+
+msgid "Chế biến xong tất cả"
+msgstr "Processed all"
+
+msgid "Chế độ nhập"
+msgstr "Input mode"
+
+msgid "Chế độ nhập nhanh"
+msgstr "Quick input mode"
+
+msgid "Chế độ nhập thường"
+msgstr "Normal input mode"
+
+msgid "Chế độ sử dụng cân điện tử"
+msgstr "Use electronic scale"
+
+msgid "Chọn"
+msgstr "Select"
+
+msgid "Chọn Phường/Xã"
+msgstr "Select Ward"
+
+msgid "Chọn Tỉnh/TP - Quận/Huyện"
+msgstr "Select Province/City - District"
+
+msgid "Chọn bàn"
+msgstr "Select table"
+
+msgid "Chọn chi nhánh ..."
+msgstr "Select outlet ..."
+
+msgid "Chọn hàng khuyến mại"
+msgstr "Select promotion item(s)"
+
+msgid "Chọn hóa đơn trả hàng"
+msgstr "Select invoice to return"
+
+msgid "Chọn mẫu in"
+msgstr "Select template of"
+
+msgid "Chọn nhóm hàng"
+msgstr "Select category"
+
+msgid "Chọn phiếu đặt bàn để tạo đơn"
+msgstr "Select reservation to create order"
+
+msgid "Chọn phòng/bàn"
+msgstr "Select room/table"
+
+msgid "Chọn phòng/bàn ..."
+msgstr "Select room/table ..."
+
+msgid "Chọn tất cả nhóm phòng/bàn"
+msgstr "Select all groups of room/table"
+
+msgid "Chọn để in lại các món đã in lỗi"
+msgstr "Select to reprint the error printing item(s)"
+
+msgid "Chọn ảnh"
+msgstr "Choose image"
+
+msgid "Chờ chế biến"
+msgstr "Wait for processing"
+
+msgid "Chờ xếp bàn"
+msgstr "Wait list"
+
+msgid "Chủ nhật"
+msgstr "Sunday"
+
+msgid "Click để bật"
+msgstr "Click to turn on"
+
+msgid "Cung ứng một"
+msgstr "Provide one"
+
+msgid "Cung ứng tất cả"
+msgstr "Provide all"
+
+msgid "Cài đặt"
+msgstr "Setting"
+
+msgid "Cá nhân"
+msgstr "Individual"
+
+msgid "Các khoản thu khác"
+msgstr "Surcharges"
+
+msgid "Còn cần thu"
+msgstr "Balance"
+
+msgid "Có"
+msgstr "Have"
+
+msgid "Có Internet"
+msgstr "Connected"
+
+msgid "Có lỗi xảy ra. Xin vui lòng thử lại."
+msgstr "An error occurred. Please try again."
+
+msgid "Có thay đổi trong danh sách hàng khuyến mại đã thông báo đến bar/bếp"
+msgstr ""
+"There is a change in the list of promotional item(s) which is notified to "
+"the bar / kitchen"
+
+msgid "Công ty"
+msgstr "Company"
+
+msgid "Cảnh báo"
+msgstr "Warning"
+
+msgid "Cần thanh toán"
+msgstr "Need to make payment"
+
+msgid "Cần trả khách"
+msgstr "Total refund"
+
+msgid "Cập nhật"
+msgstr "Update"
+
+msgid "Cập nhật ngay"
+msgstr "Update now"
+
+msgid "Cập nhật phiếu đặt bàn thành công."
+msgstr "Update reservation successfully."
+
+msgid "Cập nhật thành công!"
+msgstr "Updated successfully!"
+
+msgid "Cập nhật thông tin không thành công"
+msgstr "Failed to update information"
+
+msgid "Cập nhật thông tin thành công"
+msgstr "Update info sucessful"
+
+msgid "Cập nhật tính năng"
+msgstr "Update feature"
+
+msgid "Cập nhật đối tác giao hàng"
+msgstr "Update carrier"
+
+msgid "Cộng vào tài khoản khách hàng:"
+msgstr "Enter into account:"
+
+msgid "Danh sách các phím tắt"
+msgstr "Keyboard shortcuts"
+
+msgid "Danh sách hàng hóa không hiển thị trên bếp"
+msgstr "List of items not showing on the kitchen"
+
+msgid "Danh sách phòng/bàn gộp"
+msgstr "List of merged rooms / tables"
+
+msgid "Danh sách phòng/bàn trống"
+msgstr "List of free room/table"
+
+msgid "Dung lượng file không được lớn quá 2 MB"
+msgstr "File size should not exceed 2 MB"
+
+msgid "Duy trì đăng nhập"
+msgstr "Remember me"
+
+msgid "Dư nợ"
+msgstr "Liability"
+
+msgid "Dư nợ khách hàng"
+msgstr "Customer balance"
+
+msgid "Dư nợ đầu kỳ"
+msgstr "Beginning balance"
+
+msgid "Dừng tính"
+msgstr "Stop counting"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email không hợp lệ"
+msgstr "Email is not valid"
+
+msgid "File không đúng định dạng hình ảnh"
+msgstr "Image file is not in correct format"
+
+msgid "Ghi chú"
+msgstr "Note"
+
+msgid "Ghi chú / Món thêm"
+msgstr "Note / Extra(s)"
+
+msgid "Ghi chú cho sản phẩm"
+msgstr "Note of product"
+
+msgid "Ghi chú phòng/bàn"
+msgstr "Note of room / table"
+
+msgid "Ghi chú đơn hàng"
+msgstr "Note of order"
+
+msgid "Ghi chú..."
+msgstr "Note..."
+
+msgid "Ghi chú/Món thêm"
+msgstr "Note/Extra(s)"
+
+msgid "Ghép đơn"
+msgstr "Merge orders"
+
+msgid "Ghép đến"
+msgstr "Merge to"
+
+msgid "Giao dịch được cập nhật thành công"
+msgstr "The transaction was updated successful"
+
+msgid "Giao hàng"
+msgstr "Delivery"
+
+msgid "Giá"
+msgstr "Price"
+
+msgid "Giá mới"
+msgstr "New price"
+
+msgid "Giá trị"
+msgstr "Value"
+
+msgid "Giá trị hóa đơn"
+msgstr "Subtotal"
+
+msgid "Giá trị mới"
+msgstr "New value"
+
+msgid "Giá trị thanh toán bằng điểm không được lớn hơn tiền khách cần trả"
+msgstr ""
+"Cost of payment by loyalty points should not be larger than Total (customer "
+"pay) amount"
+
+msgid "Giảm giá"
+msgstr "Discount"
+
+msgid "Giảm giá / Đồng giá (theo số lượng mua)"
+msgstr "Discount / Same price (by purchase quantity)"
+
+msgid "Giảm giá HĐ"
+msgstr "Invoice discount"
+
+msgid "Giảm giá hàng"
+msgstr "Product discount"
+
+msgid "Giảm giá hóa đơn"
+msgstr "Invoice discount"
+
+msgid "Giảm giá hóa đơn không được lớn hơn Tổng tiền hàng"
+msgstr "Discount amount should not exceed Sub-total amount"
+
+msgid "Giảm giá đơn hàng"
+msgstr "Discount order"
+
+msgid "Giảm giá:"
+msgstr "Discount:"
+
+msgid "Giới tính"
+msgstr "Gender"
+
+msgid "Giờ"
+msgstr "Hour(s)"
+
+msgid "Giờ kết thúc phải sau giờ bắt đầu."
+msgstr "End time must be after start time."
+
+msgid "Giờ đến"
+msgstr "Arrival"
+
+msgid "Gộp bàn"
+msgstr "Merge tables"
+
+msgid "Gửi yêu cầu in chế biến lại thành công"
+msgstr "Send a printing request for re-processing successfully"
+
+msgid "Gửi yêu cầu in chế biến lại thất bại"
+msgstr "Failed to send printing request for re-processing"
+
+msgid "Gửi yêu cầu thanh toán cho "
+msgstr "Send payment request for "
+
+msgid "Hiển thị"
+msgstr "Display"
+
+msgid "Hiển thị nhóm con trên danh sách nhóm hàng"
+msgstr "Show child categories on the list of category"
+
+msgid "Hiện tại bạn không có phòng bàn nào. Vui lòng cập nhật"
+msgstr "You currently have no room/table. Please update"
+
+msgid "Hotline"
+msgstr "Hotline"
+
+msgid "Hoàn lại"
+msgstr "Refund"
+
+msgid "Hoàn trả thu khác"
+msgstr "Surcharge refund"
+
+msgid "Hoàn trả tạm ứng"
+msgstr "Advance refund"
+
+msgid "Hàng hóa"
+msgstr "Product"
+
+msgid "Hàng khuyến mại"
+msgstr "Promotional item(s)"
+
+msgid ""
+"Hàng này sẽ không được gửi đến Bếp để chế biến khi đơn hàng được thông báo."
+msgstr ""
+"This item will not be sent to the Kitchen for processing when the order is "
+"notified."
+
+msgid "Hóa đơn"
+msgstr "Invoice"
+
+msgid "Hóa đơn trên"
+msgstr "Invoice amount is greater than"
+
+msgid "Hóa đơn đang trống, không thể thực hiện thao tác này"
+msgstr "Invoice is empty, can not perform this action"
+
+msgid "Hệ thống giới hạn"
+msgstr "System limit"
+
+msgid "Hệ thống không theo dõi công nợ với khách lẻ"
+msgstr "The system does not track debts of guest"
+
+msgid "Hệ thống đang xử lý dữ liệu, bạn vui lòng đợi ít giây và thử lại"
+msgstr ""
+"The system is processing the data, please wait a few seconds and try again"
+
+msgid "Hỗ trợ"
+msgstr "Support"
+
+msgid "Hỗ trợ in trên các máy in khổ 80mm và 58mm"
+msgstr "Support to print on printer size 80mm and 58mm"
+
+msgid "Hỗ trợ khách hàng 1800 6162"
+msgstr "Customer support 1800 6162"
+
+msgid "Hủy"
+msgstr "Cancel"
+
+msgid "Hủy bỏ"
+msgstr "Cancel"
+
+msgid "Hủy món đã thông báo bếp với số lượng là"
+msgstr "The cancelled items notified to the Kitchen with amount of"
+
+msgid "Hủy order không thành công"
+msgstr "Failed to cancel order"
+
+msgid "Hủy phiếu"
+msgstr "Cancel"
+
+msgid "Hủy đặt"
+msgstr "Cancel reservation"
+
+msgid "Hủy đặt bàn thành công"
+msgstr "Cancel reservation successfully"
+
+msgid "In"
+msgstr "Print"
+
+msgid "In Bar-Bếp"
+msgstr "KiotViet Printer application"
+
+msgid "In phiếu"
+msgstr "Print"
+
+msgid "In trên nhiều máy in"
+msgstr "Print to multiple printers"
+
+msgid "KM"
+msgstr "PROMO"
+
+msgid "Khach can tra"
+msgstr "Total"
+
+msgid "Khi mua"
+msgstr "When buy"
+
+msgid "Khu vực"
+msgstr "Location"
+
+msgid "Khu vực không hợp lệ"
+msgstr "Location is not valid"
+
+msgid "Khuyến mại"
+msgstr "Promotion"
+
+msgid ""
+"Khuyến mại này đã không còn hợp lệ nên bạn sẽ không thể áp dụng lại sau khi "
+"xóa. Bạn có chắc chắn muốn xóa không?"
+msgstr ""
+"This promotion is no longer valid, so you will not be able to reapply after "
+"deletion. Are you sure you want to delete?"
+
+msgid "Khuyến mại trên"
+msgstr "Promotion applied to"
+
+msgid "Khuyến mại trên hóa đơn"
+msgstr "Promotion on invoice"
+
+msgid "Khuyến mại đơn hàng"
+msgstr "Order promotion"
+
+msgid "Khuyến mại:"
+msgstr "Promotion:"
+
+msgid "Khác"
+msgstr "Others"
+
+msgid "Khách cần trả"
+msgstr "Total"
+
+msgid "Khách hàng"
+msgstr "Customer"
+
+msgid "Khách hàng "
+msgstr "Customer "
+
+msgid "Khách hàng không hợp lệ!"
+msgstr "Customer is not valid!"
+
+msgid ""
+"Khách hàng không được phép tích điểm, xin vui lòng xem lại thiết lập tính "
+"năng Tích điểm"
+msgstr "Customer is not allowed to reward points, please check again"
+
+msgid "Khách lẻ"
+msgstr "Guest"
+
+msgid "Khách nhận bàn thành công"
+msgstr "Customer receives table successfully"
+
+msgid "Khách quá giờ"
+msgstr "Customer is late"
+
+msgid "Khách sắp đến"
+msgstr "Upcoming"
+
+msgid "Khách thanh toán"
+msgstr "Total"
+
+msgid "Khách thanh toán (F8)"
+msgstr "Customer pay (F8)"
+
+msgid "Khách đặt"
+msgstr "Customer reserves"
+
+msgid "Không"
+msgstr "No"
+
+msgid "Không báo bếp khi thanh toán ."
+msgstr "Do not notify kitchen when making payment ."
+
+msgid "Không có Internet"
+msgstr "Disconnected"
+
+msgid "Không có chương trình khuyến mại nào được áp dụng"
+msgstr "No promotion applied"
+
+msgid "Không có dữ liệu"
+msgstr "No data"
+
+msgid "Không có hàng hóa nào"
+msgstr "No data"
+
+msgid "Không có hóa đơn nào"
+msgstr "No data"
+
+msgid "Không có kết nối Internet, không thể thực hiện thao tác này"
+msgstr "There is no internet connection, cannot perform this action"
+
+msgid "Không có kết nối Internet. Bạn vẫn có thể tạo phiếu đặt bàn offline"
+msgstr ""
+"There is no internet connection. You can still create reservation offline"
+
+msgid "Không có kết nối internet. Giao dịch được lưu offline"
+msgstr "There is no internet connection. Transaction still be saved offline"
+
+msgid "Không có lỗi in chế biến"
+msgstr "No error while printing process"
+
+msgid "Không có mặt hàng để hoàn trả đối với hóa đơn này"
+msgstr "No item could be returned with this invoice"
+
+msgid "Không có nhóm khách hàng nào"
+msgstr "No customer groups"
+
+msgid "Không có phiếu đã xếp bàn nào được chọn."
+msgstr "No allocated reservation is selected."
+
+msgid "Không có phiếu đặt nào"
+msgstr "No reservation"
+
+msgid "Không có phiếu đặt được chọn nào hợp lệ để hủy."
+msgstr "None of selected booking is valid to cancel."
+
+msgid "Không có thông báo nào"
+msgstr "No notifications"
+
+msgid "Không có đơn chờ thanh toán"
+msgstr "There are no orders pending for payment"
+
+msgid "Không giao được hàng"
+msgstr "Shipment returned"
+
+msgid "Không hiển thị nhóm con trên danh sách nhóm hàng"
+msgstr "Do not show child category on the list of category"
+
+msgid "Không hiển thị vì bạn không có quyền xem danh sách hóa đơn."
+msgstr ""
+"Not showing because you do not have permission to view the list of "
+"invoice(s)."
+
+msgid "Không in trên nhiều máy in"
+msgstr "Not print to multiple printers"
+
+msgid "Không sắp xếp hàng hóa theo thứ tự bảng chữ cái"
+msgstr "Unarrange products in the order of the alphabet"
+
+msgid "Không thể thực hiện ghép đơn - Bạn cần thông báo bếp cho các đơn hàng"
+msgstr ""
+"Cannot merge invoice(s) - You need to notify the kitchen for the orders"
+
+msgid "Không thể tách đơn có chứa hàng khuyến mại"
+msgstr "Cannot split invoice with promotional item(s)"
+
+msgid "Không thể áp dụng hàng topping"
+msgstr "Cannot apply topping item(s)"
+
+msgid "Không thực hiện được vì Hóa đơn"
+msgstr "Unable to perform because invoice"
+
+msgid "Không tìm thấy hàng hóa nào"
+msgstr "No result"
+
+msgid "Không tìm thấy hàng hóa phù hợp"
+msgstr "No matches found"
+
+msgid "Không tìm thấy khách hàng"
+msgstr "No result"
+
+msgid "Không tìm thấy kết quả nào phù hợp"
+msgstr "No matches found"
+
+msgid "Không tìm thấy phiếu đặt bàn nào phù hợp"
+msgstr "Cannot find matching reservation"
+
+msgid "Không tìm thấy phòng/bàn nào"
+msgstr "No result"
+
+msgid "Không tìm thấy sản phẩm"
+msgstr "No result"
+
+msgid "Không tìm thấy sản phẩm nào"
+msgstr "No result"
+
+msgid "Không tìm thấy sản phẩm phù hợp"
+msgstr "No matches found"
+
+msgid "Không tìm thấy đối tác giao hàng"
+msgstr "No result"
+
+msgid "Không tự động in hóa đơn"
+msgstr "Do not print automatically transaction"
+
+msgid "Không được phép xóa món đã thông báo bếp hoặc in."
+msgstr "Could not delete item(s) notified or printed to the kitchen."
+
+msgid "Không được phép xóa món đã thông báo cho nhà bếp!"
+msgstr "Could not delete item(s) notified to the kitchen!"
+
+msgid "Khổ A4"
+msgstr "A4 size"
+
+msgid "Khổ K80"
+msgstr "K80 size"
+
+msgid "Kiểm đồ"
+msgstr "Check item(s)"
+
+msgid "Km"
+msgstr "PROMO"
+
+msgid ""
+"Kết nối với máy in chế biến không ổn định. Vui lòng kiểm tra lại: <br/>\n"
+"        - Kết nối máy in (cáp, nguồn ...) và tình trạng máy in (kẹt giấy, "
+"hết giấy / mực, hết bộ nhớ...) <br/>\n"
+"        - Kết nối mạng\n"
+"        "
+msgstr ""
+"Connection of processing printer is not stable. Please check again: <br/>\n"
+"        -Printer connection (cable, power plug ...) and printer status "
+"(paper jam, out of paper/ink, insufficient memory ...) <br/>\n"
+"        -Network connection\n"
+"        "
+
+msgid "Loại"
+msgstr "Type"
+
+msgid "Loại bỏ"
+msgstr "Remove"
+
+msgid "Loại bỏ hàng khỏi danh sách"
+msgstr "Remove the item(s) from the list"
+
+msgid "Loại khách"
+msgstr "Type of customer"
+
+msgid "Loại phiếu"
+msgstr "Type of receipt"
+
+msgid "Loại thu"
+msgstr "Name"
+
+msgid "Loại đối tác"
+msgstr "Type of partner"
+
+msgid "Làm mới"
+msgstr "Refresh"
+
+msgid "Lý do hủy"
+msgstr "Reason"
+
+msgid "Lưu"
+msgstr "Save"
+
+msgid "Lưu khách hàng không thành công"
+msgstr "Failed to save customer"
+
+msgid "Lưu phiếu đặt bàn thành công"
+msgstr "Reservation is saved successfully"
+
+msgid "Lưu đơn hàng"
+msgstr "Save order"
+
+msgid "Lập phiếu thu"
+msgstr "Add receipt"
+
+msgid "Lễ tân"
+msgstr "Receptionist"
+
+msgid "Lịch sử"
+msgstr "History"
+
+msgid "Lịch sử điểm"
+msgstr "Reward point history"
+
+msgid "Lọc theo nhóm hàng"
+msgstr "Filter by product category"
+
+msgid "Lọc theo phòng bàn"
+msgstr "Filter by room table"
+
+msgid "Lỗi in chế biến"
+msgstr "Error to print processing"
+
+msgid "Lỗi khi in chế biến"
+msgstr "Error while printing processing"
+
+msgid "Lựa chọn hiển thị"
+msgstr "Display option"
+
+msgid "Mua"
+msgstr "Buy"
+
+msgid "Mua hàng khuyến mại hàng"
+msgstr "Buy product, get promotional item"
+
+msgid "Mua hàng tặng hàng"
+msgstr "Buy product, get bonus item"
+
+msgid "Mua hàng tặng điểm"
+msgstr "Buy product, get bonus loyalty points"
+
+msgid "Màn hình thu ngân đang được mở trên một tab khác"
+msgstr "The cashier screen is opening on another tab"
+
+msgid "Máy in"
+msgstr "Printer"
+
+msgid "Mã"
+msgstr "Code"
+
+msgid "Mã hàng hóa"
+msgstr "Product number"
+
+msgid "Mã hóa đơn"
+msgstr "Invoice code"
+
+msgid "Mã khách hàng"
+msgstr "Customer code"
+
+msgid "Mã khách hàng "
+msgstr "Customer number "
+
+msgid "Mã khách hàng không được bỏ trống"
+msgstr "Customer code is required"
+
+msgid "Mã mặc định"
+msgstr "Default code"
+
+msgid "Mã phiếu"
+msgstr "Receipt number"
+
+msgid "Mã phiếu đặt"
+msgstr "Reservation number"
+
+msgid "Mã số thuế"
+msgstr "Tax reg. number"
+
+msgid "Mã thu khác"
+msgstr "Surcharge number"
+
+msgid "Mã tự động"
+msgstr "Generated automatically"
+
+msgid "Mã vận đơn"
+msgstr "Shipping No"
+
+msgid "Mã đặt bàn"
+msgstr "Reservation code"
+
+msgid "Mã đối tác"
+msgstr "Partner number"
+
+msgid "Mã đối tác giao hàng"
+msgstr "Carrier number"
+
+msgid "Mô tả"
+msgstr "Description"
+
+msgid "Mật khẩu"
+msgstr "Password"
+
+msgid "Mặt hàng"
+msgstr "Product"
+
+msgid "Mở thực đơn khi chọn bàn"
+msgstr "Open menu when choosing table"
+
+msgid "Mức thu"
+msgstr "Charge rate"
+
+msgid "Mức thu khác"
+msgstr "Surcharge rate"
+
+msgid "Mức thu mới"
+msgstr "New rate"
+
+msgid "NV nhận đặt"
+msgstr "Receiver"
+
+msgid "Nam"
+msgstr "Male"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Ngày"
+msgstr "Date"
+
+msgid "Ngày sinh"
+msgstr "Date of birth"
+
+msgid "Ngày sinh không hợp lệ"
+msgstr "Date of birth is not valid"
+
+msgid "Ngày tạo"
+msgstr "Created date"
+
+msgid "Người bán"
+msgstr "Salesman"
+
+msgid "Người bán "
+msgstr "Seller "
+
+msgid "Người lớn"
+msgstr "Adult"
+
+msgid "Người nhận"
+msgstr "Receiver"
+
+msgid "Người nhận đơn"
+msgstr "Order receiver"
+
+msgid "Người tạo"
+msgstr "Creator"
+
+msgid "Nhà bếp"
+msgstr "Kitchen display screen"
+
+msgid "Nhân viên"
+msgstr "Employee"
+
+msgid "Nhân viên nhận đặt bàn từ khách"
+msgstr "Employee who receives reservation from customer"
+
+msgid "Nhóm"
+msgstr "Group"
+
+msgid "Nhóm hàng"
+msgstr "Product category"
+
+msgid "Nhóm đối tác"
+msgstr "Partner group"
+
+msgid "Nhận bàn"
+msgstr "Seated"
+
+msgid "Nhận gọi món"
+msgstr "Take order"
+
+msgid "Nhập hàng"
+msgstr "Purchase order"
+
+msgid "Nội dung khuyến mại"
+msgstr "Promotion content"
+
+msgid "Nợ hiện tại"
+msgstr "Current debt"
+
+msgid "Nợ hiện tại:"
+msgstr "Current debt:"
+
+msgid "Nợ sau:"
+msgstr "Balance:"
+
+msgid "Nữ"
+msgstr "Female"
+
+msgid "Order"
+msgstr "Order"
+
+msgid "PHÒNG/BÀN"
+msgstr "ROOM/TABLE"
+
+msgid "Phiếu hàng đang trống"
+msgstr "No products selected"
+
+msgid "Phiếu thanh toán"
+msgstr "Payment receipt"
+
+msgid "Phí cần phải thanh toán cho đối tác giao hàng."
+msgstr "Fee must be paid for Carrier."
+
+msgid "Phí giao hàng"
+msgstr "Shipping fee"
+
+msgid "Phím tắt"
+msgstr "Shortcut keys"
+
+msgid "Phím tắt chức năng"
+msgstr "Function of shortcut keys"
+
+msgid "Phòng / Bàn"
+msgstr "Room / Table"
+
+msgid "Phòng bàn"
+msgstr "Table & Room"
+
+msgid "Phòng/Bàn"
+msgstr "Room/Table"
+
+msgid "Phòng/bàn"
+msgstr "Room/table"
+
+msgid "Phóng to"
+msgstr "Zoom in"
+
+msgid "Phường xã"
+msgstr "Ward"
+
+msgid "Phường xã không hợp lệ"
+msgstr "Ward is not valid"
+
+msgid "Quá giờ / Không đến"
+msgstr "Late / No-show"
+
+msgid "Quá trình tách đơn sẽ thông báo các thông tin trên đơn tách đến"
+msgstr ""
+"Process of splitting order will inform the information on order which is "
+"splitted to"
+
+msgid "Quét mã vạch cân điện tử"
+msgstr "Turn off electronic bar code scanning mode"
+
+msgid "Quên mật khẩu?"
+msgstr "Forgot password?"
+
+msgid "Quản lý"
+msgstr "Management Screen"
+
+msgid "SL dùng"
+msgstr "Used Qty"
+
+msgid "SL gọi"
+msgstr "Ordered"
+
+msgid "SL trên đơn gốc"
+msgstr "Qty on original order"
+
+msgid "SL trả"
+msgstr "Return Qty"
+
+msgid "SL tách"
+msgstr "Split Qty"
+
+msgid "Sai Tên đăng nhập hoặc mật khẩu!."
+msgstr "Username or password is incorrect!."
+
+msgid "Sản phẩm"
+msgstr "Product"
+
+msgid "Sắp xếp hàng hóa theo thứ tự bảng chữ cái"
+msgstr "Arrange products in the order of the alphabet"
+
+msgid "Sắp xếp thứ tự"
+msgstr "Arrange order"
+
+msgid "Số bản ghi:"
+msgstr "Items per page:"
+
+msgid "Số bản in (Liên)"
+msgstr "Number of copies"
+
+msgid "Số khách"
+msgstr "Customer count"
+
+msgid "Số lượng"
+msgstr "Quantity"
+
+msgid "Số lượng hàng"
+msgstr "Quantity of items"
+
+msgid "Số lượng hàng hóa"
+msgstr "Quantity of products"
+
+msgid "Số lượng hủy"
+msgstr "Cancel Qty"
+
+msgid "Số lượng khách"
+msgstr "Customer Count"
+
+msgid "Số lượng khách hàng"
+msgstr "Qty of customers"
+
+msgid "Số lượng khách từ"
+msgstr "Qty of customers from"
+
+msgid "Số lượng sản phẩm không hợp lệ"
+msgstr "Product quantity is not valid"
+
+msgid "Số lần mua"
+msgstr "Purchase times"
+
+msgid "Số tiền thanh toán bằng điểm phải chia hết cho "
+msgstr "The amount paid by the point must be divisible by "
+
+msgid "Số tiền vượt quá giá trị thanh toán bằng điểm cho phép"
+msgstr "The amount exceed permitted value of payment by loyalty points"
+
+msgid "Số điện thoại"
+msgstr "Phone number"
+
+msgid "Số điện thoại "
+msgstr "Phone number "
+
+msgid "Số điện thoại:"
+msgstr "Phone number:"
+
+msgid "Sử dụng"
+msgstr "Use"
+
+msgid "Sử dụng màn hình ngang hoặc"
+msgstr "Use horizontal screen or"
+
+msgid "Sử dụng:"
+msgstr "Occupied:"
+
+msgid "Thanh toán"
+msgstr "Payment"
+
+msgid "Thanh toán bằng điểm"
+msgstr "Payment by loyalty points"
+
+msgid "Thanh toán hết"
+msgstr "Pay off"
+
+msgid "Thanh toán không thành công: Quá thời gian gửi thông báo"
+msgstr "Payment failed: Exceeding permitted sending time"
+
+msgid "Thanh toán một phần"
+msgstr "Partital payment"
+
+msgid "Thanh toán trả"
+msgstr "Refund"
+
+msgid "Thanh toán(Sổ quỹ)"
+msgstr "Payment(General ledger)"
+
+msgid "Thay đổi chế độ nhập số lượng"
+msgstr "Change the quantity input mode"
+
+msgid "Thay đổi sản phẩm"
+msgstr "Change product"
+
+msgid "Thay đổi số lượng"
+msgstr "Change the quantity"
+
+msgid "Thay đổi số lượng khách hàng"
+msgstr "Change the quantity of customers"
+
+msgid "Thay đổi số lượng món từ"
+msgstr "Change the quantity of item from"
+
+msgid "Thay đổi thứ tự sắp xếp hàng hóa"
+msgstr "Change the arrange order of products"
+
+msgid "Theo ghi chú"
+msgstr "By note"
+
+msgid "Theo giờ trên lịch"
+msgstr "By hour on calendar"
+
+msgid "Theo giờ trên phiếu"
+msgstr "By hour on reservation"
+
+msgid "Theo mã hóa đơn"
+msgstr "By invoice code"
+
+msgid "Theo mã đặt bàn"
+msgstr "By reservation number"
+
+msgid "Theo mã, tên, ĐT khách hàng"
+msgstr "By cx number, name, phone"
+
+msgid "Theo món"
+msgstr "By item(s)"
+
+msgid "Theo người nhận đặt"
+msgstr "By receiver"
+
+msgid "Theo phòng/bàn"
+msgstr "By room/table"
+
+msgid "Theo tên hoặc mã hàng"
+msgstr "By product name or number"
+
+msgid "Thoát"
+msgstr "Exit"
+
+msgid "Thu gọn"
+msgstr "Hide"
+
+msgid "Thu hộ tiền"
+msgstr "Cash on Delivery"
+
+msgid "Thu khác"
+msgstr "Surcharge"
+
+msgid "Thu ngân"
+msgstr "Cashier"
+
+msgid "Thu nhỏ"
+msgstr "Zoom out"
+
+msgid "Thu trên hóa đơn"
+msgstr "Charge on invoice"
+
+msgid "Thu từ khách"
+msgstr "Customer pay"
+
+msgid "Tháng"
+msgstr "Month"
+
+msgid "Thêm khách hàng"
+msgstr "Add customer"
+
+msgid "Thêm món"
+msgstr "Add item"
+
+msgid "Thêm mới"
+msgstr "Add new"
+
+msgid "Thêm mới đơn tạm với"
+msgstr "Add new draft order"
+
+msgid "Thêm mới đặt bàn"
+msgstr "Add new reservation"
+
+msgid "Thêm mới đối tác giao hàng"
+msgstr "Add new carrier"
+
+msgid "Thêm phiếu đặt mới"
+msgstr "Add new reservation"
+
+msgid "Thêm tùy chọn mới"
+msgstr "Add new option"
+
+msgid "Thêm đơn hàng mới"
+msgstr "Add new order"
+
+msgid "Thêm đối tác giao hàng"
+msgstr "Add carrier"
+
+msgid "Thông báo"
+msgstr "Send"
+
+msgid "Thông báo bếp không thành công: Quá thời gian gửi thông báo"
+msgstr "Failed to notify kitchen: Exceeded permitted sending time"
+
+msgid "Thông báo ghép hóa đơn không thành công!"
+msgstr "Failed to notify invoice merging request!"
+
+msgid "Thông tin"
+msgstr "Details"
+
+msgid "Thông tin gọi món sẽ không được in ra tại máy in khu vực chế biến"
+msgstr ""
+"Ordering information will not be printed at the printer of processing area"
+
+msgid "Thông tin khách hàng được cập nhật thành công."
+msgstr "Customer information has been updated successfully."
+
+msgid "Thông tin đối tác giao hàng được cập nhật thành công!"
+msgstr "Carrier information has been updated successfully!"
+
+msgid "Thẻ"
+msgstr "Card"
+
+msgid "Thời gian"
+msgstr "Time"
+
+msgid "Thời gian chọn trên lịch không đúng với thời gian đặt trên phiếu?"
+msgstr "Selected time on calendar does not match selected time on reservation?"
+
+msgid "Thời gian giao"
+msgstr "Delivery time"
+
+msgid "Thời gian giao hàng phải sau thời gian hóa đơn"
+msgstr "Delivery time must be after than Invoice time"
+
+msgid "Thời gian đặt"
+msgstr "Arrival time"
+
+msgid "Thời lượng"
+msgstr "Duration"
+
+msgid "Thời lượng dự kiến khách sẽ sử dụng bàn"
+msgstr "Estimated duration for customer to use table"
+
+msgid "Thứ 2"
+msgstr "Monday"
+
+msgid "Thứ 3"
+msgstr "Tuesday"
+
+msgid "Thứ 4"
+msgstr "Wednesday"
+
+msgid "Thứ 5"
+msgstr "Thursday"
+
+msgid "Thứ 6"
+msgstr "Friday"
+
+msgid "Thứ 7"
+msgstr "Saturday"
+
+msgid "Thực hiện"
+msgstr "Perform"
+
+msgid "Thực đơn"
+msgstr "Menu"
+
+msgid "Tiếp tục"
+msgstr "Continue"
+
+msgid "Tiền mặt"
+msgstr "Cash"
+
+msgid "Tiền thu"
+msgstr "Amount"
+
+msgid "Tiền thừa trả khách"
+msgstr "Give change to customer"
+
+msgid "Tiền trả khách"
+msgstr "Refund amount"
+
+msgid "Tiền trả khách (F8)"
+msgstr "Refund amount (F8)"
+
+msgid "Trang cuối"
+msgstr "Last page"
+
+msgid "Trang sau"
+msgstr "Next page"
+
+msgid "Trang trước"
+msgstr "Previous page"
+
+msgid "Trang đầu"
+msgstr "First page"
+
+msgid ""
+"Trình duyệt đang chặn thông báo từ KiotViet. Kích vào \"Bảo mật\" trên đường "
+"dẫn URL, rồi chọn \"Luôn cho phép trên trang web này\" trong mục \"Thông báo"
+"\" để các tính năng thoạt động ổn định"
+msgstr ""
+"The browser is blocking notification from KiotViet. Click \"Security \" on "
+"the URL, and then select \"Always allow on this site\" in the "
+"\"Notifications \" section for stable features"
+
+msgid "Trạng thái"
+msgstr "Status"
+
+msgid "Trạng thái kết nối:"
+msgstr "Connection Status:"
+
+msgid "Trả hàng"
+msgstr "Return"
+
+msgid "Trả hàng nhà cung cấp"
+msgstr "Return to supplier"
+
+msgid "Trả hết"
+msgstr "Served all"
+
+msgid "Trả hết hàng có khuyến mại"
+msgstr "Return all promotional items"
+
+msgid "Trả món"
+msgstr "Served item(s)"
+
+msgid "Trả món cho khách"
+msgstr "Serve item(s) to customer"
+
+msgid "Trả nhanh"
+msgstr "Without invoice"
+
+msgid "Trẻ em"
+msgstr "Child"
+
+msgid "Tuần"
+msgstr "Week"
+
+msgid ""
+"Tài khoản mật khẩu không chính xác hoặc tài khoản này chưa từng đăng nhập "
+"trên thiết bị này."
+msgstr ""
+"Account password is incorrect or this account has never logged on to this "
+"device."
+
+msgid "Tài khoản nhận"
+msgstr "Receiving account"
+
+msgid "Tách bàn"
+msgstr "Split table"
+
+msgid "Tách ghép đơn"
+msgstr "Split or merge the order"
+
+msgid "Tách đơn"
+msgstr "Split the order"
+
+msgid "Tách đến"
+msgstr "Split to"
+
+msgid "Tên chương trình"
+msgstr "Name of the program"
+
+msgid "Tên gian hàng"
+msgstr "Store name"
+
+msgid "Tên hàng hóa"
+msgstr "Product name"
+
+msgid "Tên khách hàng"
+msgstr "Customer name"
+
+msgid "Tên khách hàng trống"
+msgstr "Customer name is required"
+
+msgid "Tên đăng nhập"
+msgstr "Username"
+
+msgid "Tên đối tác"
+msgstr "Partner name"
+
+msgid "Tìm hàng hóa"
+msgstr "Search product(s)"
+
+msgid "Tìm hàng hóa theo mã hoặc tên (F3)"
+msgstr "Search product(s) by number or name (F3)"
+
+msgid "Tìm hàng khuyến mại"
+msgstr "Search promotional product(s)"
+
+msgid "Tìm hàng tặng"
+msgstr "Search bonus item"
+
+msgid "Tìm khách hàng"
+msgstr "Search customer"
+
+msgid "Tìm khách hàng (F4)"
+msgstr "Search customer (F4)"
+
+msgid "Tìm kiếm"
+msgstr "Search"
+
+msgid "Tìm kiếm nhóm hàng"
+msgstr "Search product category"
+
+msgid "Tìm kiếm phòng/bàn"
+msgstr "Search room/table"
+
+msgid "Tìm phiếu đặt"
+msgstr "Search reservation"
+
+msgid "Tìm phòng/bàn"
+msgstr "Search room/table"
+
+msgid "Tìm phòng/bàn (F2)"
+msgstr "Search room/table (F2)"
+
+msgid "Tìm sản phẩm (F3)"
+msgstr "Search product (F3)"
+
+msgid "Tìm sản phẩm khuyến mại"
+msgstr "Search promotional product(s)"
+
+msgid "Tìm theo khách đặt"
+msgstr "Search by reservee"
+
+msgid "Tìm đối tác giao hàng"
+msgstr "Search carrier"
+
+msgid "Tính năng này chỉ có sẵn khi bạn đang online"
+msgstr "This feature is available only if there is internet connection"
+
+msgid ""
+"Tính năng này cần cập nhật phiên bản mới nhất của KiotViet. Xin vui lòng "
+"click để cập nhật"
+msgstr ""
+"This feature requires updating the latest version of KiotViet. Please click "
+"to update"
+
+msgid "Tính vào công nợ"
+msgstr "Enter into account"
+
+msgid "Tùy chọn hiển thị"
+msgstr "Display settings"
+
+msgid "Tạo"
+msgstr "Create"
+
+msgid "Tạo Phiếu thu Thành công"
+msgstr "Added receipt successfully"
+
+msgid "Tạo phiếu thu"
+msgstr "Add receipt"
+
+msgid "Tạo phiếu thu & In"
+msgstr "Add receipt & Print"
+
+msgid "Tạo phiếu đặt bàn"
+msgstr "Create reservation"
+
+msgid "Tạo đơn mới"
+msgstr "Add new order"
+
+msgid "TẢI NGAY"
+msgstr "DOWNLOAD NOW"
+
+msgid "Tải App ngay"
+msgstr "Get the App Now"
+
+msgid "Tất cả"
+msgstr "All"
+
+msgid ""
+"Tất cả hàng trên đơn gốc đang được chọn để thanh toán. Bạn có chắc chắn muốn "
+"thanh toán hết đơn hàng?"
+msgstr ""
+"All items on original order are being selected for payment. Are you sure you "
+"want to pay off your order?"
+
+msgid "Tắt chuông"
+msgstr "Turn off the bell"
+
+msgid "Tắt chế độ quét mã vạch cân điện tử"
+msgstr "Turn off electronic bar code scanning mode"
+
+msgid "Tắt chế độ tự động in"
+msgstr "Turn off auto-printing"
+
+msgid "Tặng"
+msgstr "Bonus"
+
+msgid "Tặng hàng"
+msgstr "Bonus item(s)"
+
+msgid "Tặng điểm"
+msgstr "Bonus loyalty points"
+
+msgid "Tồn"
+msgstr "On hand"
+
+msgid "Tổng"
+msgstr "Total"
+
+msgid "Tổng cộng"
+msgstr "Total"
+
+msgid "Tổng giảm giá:"
+msgstr "Total discount:"
+
+msgid "Tổng hóa đơn thanh toán:"
+msgstr "Total invoice payment:"
+
+msgid "Tổng tiền"
+msgstr "Sub-total"
+
+msgid "Tổng tiền hàng"
+msgstr "Sub-total"
+
+msgid "Tổng tiền hàng trả"
+msgstr "Sub-total (Refund)"
+
+msgid "Tổng tiền hàng từ"
+msgstr "Sub-total amount from"
+
+msgid "Tổng tiền khách thanh toán"
+msgstr "Total payment"
+
+msgid "Tổng tiền thanh toán quá lớn!"
+msgstr "Total payment is too large!"
+
+msgid "Tổng điểm"
+msgstr "Total points"
+
+msgid "Từ"
+msgstr "From"
+
+msgid "Từ ngày"
+msgstr "From date"
+
+msgid "Tự động in hóa đơn"
+msgstr "Automatic invoice printing"
+
+msgid "Vui lòng kiểm tra máy in và in lại các đơn gặp lỗi."
+msgstr "Please check the printer and reprint the errors."
+
+msgid ""
+"Vui lòng nhập đầy đủ thông tin chi nhánh đặt, giờ đến và thời gian sử dụng"
+msgstr ""
+"Please enter sufficient information of reserved outlet, arrival time and "
+"duration of use"
+
+msgid "Về sau"
+msgstr "Forward"
+
+msgid "Về trước"
+msgstr "Backward"
+
+msgid "Xem bàn trống"
+msgstr "View free table"
+
+msgid "Xem báo cáo cuối ngày"
+msgstr "End of day report"
+
+msgid "Xem danh sách đặt bàn"
+msgstr "View reservation list"
+
+msgid "Xem toàn màn hình"
+msgstr "View full screen"
+
+msgid "Xem trước bản in"
+msgstr "Print preview"
+
+msgid "Xem/bỏ chế độ toàn khung"
+msgstr "View/uncheck full frame mode"
+
+msgid "Xin chao"
+msgstr "Hello"
+
+msgid "Xong"
+msgstr "Done"
+
+msgid "Xuất file"
+msgstr "Export file"
+
+msgid "Xác nhận"
+msgstr "Confirm"
+
+msgid "Xác nhận giảm/hủy món"
+msgstr "Confirm cancelling item(s)"
+
+msgid "Xóa"
+msgstr "Delete"
+
+msgid "Xóa KM"
+msgstr "Delete PROMO"
+
+msgid "Xóa chọn tất cả"
+msgstr "Uncheck all"
+
+msgid "Xóa hàng hóa"
+msgstr "Delete product"
+
+msgid "Xóa khách hàng"
+msgstr "Delete customer"
+
+msgid "Xóa món"
+msgstr "Delete item"
+
+msgid "Xóa đơn hàng với uuid"
+msgstr "Delete order with uuid"
+
+msgid "Xóa đặt bàn"
+msgstr "Delete reservation"
+
+msgid "Xóa đối tác giao hàng"
+msgstr "Delete carrier"
+
+msgid "Xóa ảnh"
+msgstr "Delete image"
+
+msgid "Yêu cầu chế biến"
+msgstr "Processing request"
+
+msgid "Yêu cầu thanh toán"
+msgstr "Payment request"
+
+msgid "bởi"
+msgstr "by"
+
+msgid "cho"
+msgstr "for"
+
+msgid "cho hóa đơn"
+msgstr "for invoice"
+
+msgid "cho món đã thông báo bếp"
+msgstr "for item(s) notified to kitchen"
+
+msgid "cho đơn hàng"
+msgstr "for order"
+
+msgid "chưa nhập số lượng"
+msgstr "please enter the quantity"
+
+msgid "chưa sẵn sàng để in"
+msgstr "is not ready to print"
+
+msgid ""
+"có thể được sử dụng cho đơn hàng khác không? (Hệ thống sẽ cộng lại tồn kho "
+"cho hàng nguyên liệu khi phiếu trả hàng này được hoàn thành)"
+msgstr ""
+"only allow to be used for other orders? (The system will add up inventory "
+"for the goods when the return receipt is completed)"
+
+msgid "cùng loại"
+msgstr "same type"
+
+msgid "của món"
+msgstr "of the item"
+
+msgid "của đơn hàng"
+msgstr "of the order"
+
+msgid "dài quá 300 ký tự."
+msgstr "exceed 300 characters."
+
+msgid "giá"
+msgstr "price"
+
+msgid "giảm giá"
+msgstr "discount"
+
+msgid "giảm giá sản phẩm"
+msgstr "product discount"
+
+msgid "giờ"
+msgstr "hrs"
+
+msgid "gộp với"
+msgstr "merge with"
+
+msgid "gửi yêu cầu chế biến"
+msgstr "send processing request"
+
+msgid "hoặc hàng hóa cùng loại"
+msgstr "or product(s) of the same type"
+
+msgid "hàng hóa"
+msgstr "product(s)"
+
+msgid "hóa đơn"
+msgstr "invoices"
+
+msgid "hết bộ nhớ đệm"
+msgstr "out of cache"
+
+msgid "khi mua"
+msgstr "when buy"
+
+msgid "khác"
+msgstr "other"
+
+msgid "khách"
+msgstr "customer"
+
+msgid "không tồn tại trong đơn hàng"
+msgstr "does not exist in the order"
+
+msgid "không được bán trực tiếp"
+msgstr "is not allowed to sell in person"
+
+msgid "không?"
+msgstr "?"
+
+msgid "khỏi hệ thống?"
+msgstr "?"
+
+msgid "miễn cước"
+msgstr "free"
+
+msgid "màn hình bán hàng sẽ được tải lại theo chi nhánh mới"
+msgstr "the cashier screen will be reloaded under the new outlet"
+
+msgid "màn hình ngang hoặc"
+msgstr "horizontal screen or"
+
+msgid "ngày"
+msgstr "date"
+
+msgid "phiếu"
+msgstr "receipt"
+
+msgid "phiếu khác"
+msgstr "other reservation(s)"
+
+msgid "phiếu đặt bàn"
+msgstr "reservation(s)"
+
+msgid "phiếu đặt đã hủy thành công."
+msgstr "reservation is cancelled successfully."
+
+msgid "phiếu đặt được cập nhật thành công."
+msgstr "reservation is updated successfully."
+
+msgid "phút"
+msgstr "mins"
+
+msgid "phải còn ít nhất 1 món"
+msgstr "must have at least 1 item"
+
+msgid "sản phẩm"
+msgstr "product(s)"
+
+msgid "sẽ bị hủy theo món này. Bạn có chắc chắn muốn hủy?"
+msgstr "will be cancelled by this item. Are you sure you want to cancel?"
+
+msgid "số lượng hàng khuyến mại đang nhỏ hơn số lượng tối đa cho phép"
+msgstr "quantity of promotional products are lesser than the maximum allowed"
+
+msgid "số lượng hàng tặng không được lớn hơn số lượng tối đa cho phép"
+msgstr "quantity of bonus item(s) must not exceed maximum allowed"
+
+msgid "tab cho màn hình thu ngân"
+msgstr "tab for cashier screen"
+
+msgid "thanh toán một phần trong"
+msgstr "partial payment in"
+
+msgid "thành công"
+msgstr "successfully"
+
+msgid "thông báo cho các yêu cầu thanh toán và cung ứng từ bếp"
+msgstr "notify for payment requests and providing from the kitchen"
+
+msgid "trên tổng số"
+msgstr "on total"
+
+msgid "trả lại"
+msgstr "return"
+
+msgid "tách sang"
+msgstr "split to"
+
+msgid "tách toàn bộ bàn"
+msgstr "split the whole table"
+
+msgid "tách từ"
+msgstr "split from"
+
+msgid "tất cả nhóm hàng"
+msgstr "all product categories"
+
+msgid "tặng"
+msgstr "bonus"
+
+msgid "và dễ dàng hơn trên thiết bị này"
+msgstr "and easier on this device"
+
+msgid "vượt quá số lượng đã mua"
+msgstr "exceed purchased quantity"
+
+msgid "với số lượng là"
+msgstr "with quantity is"
+
+msgid "Áp dụng"
+msgstr "Apply"
+
+msgid "Áp dụng khuyến mại"
+msgstr "Apply promotion"
+
+msgid "Đang sử dụng"
+msgstr "Occupied"
+
+msgid "Đang tải hàng hóa"
+msgstr "Loading products"
+
+msgid "Đang đăng nhập"
+msgstr "Logging in"
+
+msgid "Đang đồng bộ"
+msgstr "Synchronizing"
+
+msgid "Điều chỉnh"
+msgstr "Adjust"
+
+msgid "Điểm"
+msgstr "Points"
+
+msgid "Điểm GD"
+msgstr "Points"
+
+msgid "Điểm hiện tại"
+msgstr "Current points"
+
+msgid "Điểm sau GD"
+msgstr "Total points"
+
+msgid "Điện thoại"
+msgstr "Phone number"
+
+msgid "Đã chế biến xong"
+msgstr "Processed"
+
+msgid "Đã cung ứng"
+msgstr "Provided"
+
+msgid "Đã hủy"
+msgstr "Cancelled"
+
+msgid "Đã nhận bàn"
+msgstr "Seated"
+
+msgid "Đã thanh toán"
+msgstr "Paid"
+
+msgid "Đã thu trước"
+msgstr "Prepaid"
+
+msgid "Đã xong/ Chờ cung ứng"
+msgstr "Finished/ Ready to provide"
+
+msgid "Đã xếp bàn"
+msgstr "Allocated"
+
+msgid "Đóng"
+msgstr "Close"
+
+msgid "Đăng nhập"
+msgstr "Log in"
+
+msgid "Đăng xuất"
+msgstr "Log out"
+
+msgid "Đơn gốc"
+msgstr "Original order"
+
+msgid "Đơn hàng"
+msgstr "Order"
+
+msgid ""
+"Đơn hàng này đã được thông báo tới nhà bếp và các thiết bị khác, bạn có chắc "
+"chắc muốn hủy?"
+msgstr ""
+"This order has been notified to kitchen and other devices, are you sure you "
+"want to cancel?"
+
+msgid "Đơn hàng đã được lưu!"
+msgstr "Order has been saved!"
+
+msgid "Đơn hàng đã được thanh toán hoặc bị hủy"
+msgstr "The order has been paid or cancelled"
+
+msgid "Đơn hàng đã được thanh toán!"
+msgstr "Order has been paid!"
+
+msgid "Đặt"
+msgstr "Ordered"
+
+msgid "Đặt bàn"
+msgstr "Reservation"
+
+msgid "Đặt hàng"
+msgstr "Order item"
+
+msgid "Đến"
+msgstr "To"
+
+msgid "Đến ngày"
+msgstr "To date"
+
+msgid "Để thực hiện thao tác bán hàng linh hoạt"
+msgstr "To perform flexible sale operation"
+
+msgid "Địa chỉ"
+msgstr "Address"
+
+msgid "Đồ uống"
+msgstr "Drinks"
+
+msgid "Đồ ăn"
+msgstr "Food"
+
+msgid "Đồng bộ phiếu"
+msgstr "Sync data"
+
+msgid "Đồng bộ phiếu đặt bàn offline"
+msgstr "Synchronize reservation offline"
+
+msgid "Đồng bộ tất cả"
+msgstr "Sync all"
+
+msgid "Đồng giá"
+msgstr "Same price"
+
+msgid "Đồng ý"
+msgstr "Agree"
+
+msgid "đang bận"
+msgstr "is busy"
+
+msgid "đang bị kẹt giấy"
+msgstr "is jammed paper"
+
+msgid "đang có hàng khuyến mại gắn kèm. Bạn không thể trả hết hàng đó."
+msgstr "contains promotional product(s). You cannot return all of them."
+
+msgid "đang hết giấy"
+msgstr "is out of paper"
+
+msgid "đang hết mực"
+msgstr "is out of ink"
+
+msgid "điểm"
+msgstr "points"
+
+msgid "điểm cho hóa đơn"
+msgstr "loyalty points for invoice"
+
+msgid ""
+"đã bị cập nhật bởi người dùng khác. Dữ liệu bạn đang thao tác sẽ bị ghi đè."
+msgstr ""
+"has been updated by another user. Your current data will be overwritten."
+
+msgid "đã bị hủy từ thiết bị khác"
+msgstr "has been cancelled from another device"
+
+msgid "đã bị xóa"
+msgstr "has been deleted"
+
+msgid "đã quá hạn được phép trả"
+msgstr "overdue permitted time to return"
+
+msgid "đã thông báo đến bar/bếp. Bạn có chắc chắn muốn xóa không?"
+msgstr "notified bar/kitchen. Are you sure you want delete?"
+
+msgid "đã tồn tại trong hệ thống"
+msgstr "has already existed in the system"
+
+msgid "đã tồn tại trong đơn hàng."
+msgstr "has already existed in the order."
+
+msgid "đã được thanh toán từ thiết bị khác"
+msgstr "has been paid from another device"
+
+msgid "được cộng"
+msgstr "rewards"
+
+msgid "để lưu thay đổi và đồng bộ trên toàn hệ thống"
+msgstr "to save changes and synchronize across the system"
+
+msgid "đồng"
+msgstr "VND"
+
+msgid "Ưu tiên"
+msgstr "Prioritize"
+
+msgid "Ẩn"
+msgstr "Hide"
+
+msgid "Ngồi tại bàn"
+msgstr "Dine in"
+
+msgid "Mang về"
+msgstr "Takeout"
+
+msgid "Giao đi"
+msgstr "Delivery"
+
+msgid "Loại đơn hàng"
+msgstr "Dining option"
+
+msgid "Cập nhật"
+msgstr "Update"
+
+msgid "Tạo hóa đơn"
+msgstr "Create invoice"
+
+msgid "Tách ghép đơn"
+msgstr "Split/Combine order"
+
+msgid "Thanh toán (Enter)"
+msgstr "Complete (Enter)"
+
+msgid "Trả hàng (Enter)"
+msgstr "Return (Enter)"
+
+msgid "Thanh toán (F9)"
+msgstr "Pay (F9)"
+msgid "Bạn có muốn cập nhật danh sách phòng/bàn trên phiếu đặt bàn tương ứng?"
+msgstr "Do you want to update list of room/table on related reservation?"
+
+msgid "Vui lòng thêm thông tin khách đặt."
+msgstr "Please enter customer info."
+
+msgid "Vui lòng nhập Mã đặt bàn không quá 50 kí tự."
+msgstr "Reservation code should not be more than 50 characters."
+
+msgid "Mã đặt bàn đang trống"
+msgstr "Reservation code is empty"
+
+msgid "Vui lòng chọn giờ khách đến"
+msgstr "Please choose arrival time"
+
+msgid "Thời gian sử dụng phải lớn hơn 0."
+msgstr "Duration must be greater than 0."
+
+msgid "Vui lòng nhập số khách."
+msgstr "Customer count is empty."
+
+msgid "Vui lòng nhập đầy đủ thông tin Chi nhánh và Phòng/Bàn khách sẽ sử dụng."
+msgstr "Outlet and Room/table are empty."
+
+msgid "Vui lòng nhập đầy đủ thông tin Phòng/Bàn khách sẽ sử dụng."
+msgstr "Please enter all information of Room/table for reservation."
+
+msgid "Phiếu đang gắn với đơn"
+msgstr "Reservation is linked to order"
+
+msgid "đang phục vụ."
+msgstr "which is being served."
+
+msgid ""
+"Thay đổi này sẽ làm mất thông tin phiếu đặt trên đơn hàng. Bạn có chắc chắn "
+"muốn tiếp tục?"
+msgstr ""
+"Changes will erase all info on order. Are you sure you want to continue?"
+
+msgid "Danh sách đặt bàn"
+msgstr "Reservation list"
+
+msgid "Theo mã phiếu đặt"
+msgstr "By reservation code"
+
+msgid "Theo mã, tên, SĐT khách đặt"
+msgstr "By cx code, name, phone no"
+
+msgid "Theo ghi chú đặt"
+msgstr "By note"
+
+msgid "Nhân viên nhận đặt"
+msgstr "Receiver"
+
+msgid "Có khách đặt trước"
+msgstr "Reserved"
+
+msgid "Hủy đặt chỗ"
+msgstr "Cancel reservation"
+
+msgid "Bạn có chắc chắn muốn hủy phiếu đặt bàn"
+msgstr "Are you sure you want to cancel reservation"
+
+msgid "này không?"
+msgstr "?"
+
+msgid "Không đặt trước"
+msgstr "Walk in"
+
+msgid "Vui lòng nhập thời gian sử dụng"
+msgstr "Please enter duration"
+
+msgid "Không tìm thấy phòng/bàn nào phù hợp"
+msgstr "No matches found"
+
+msgid "đang được sử dụng."
+msgstr "is busy."
+
+msgid "Bạn không thể để khách vào phòng/bàn này"
+msgstr "You cannot seat customer in this room/table"
+
+msgid "Vui lòng nhập số điện thoại khách đặt."
+msgstr "Please enter phone number of customer."
+
+msgid "Cập nhật phiếu"
+msgstr "Update reservation"
+
+msgid "Tạo phiếu"
+msgstr "Create reservation"
+
+msgid "Tồn: "
+msgstr "On hand: "
+
+msgid "Đặt:"
+msgstr "Ordered:"
+
+msgid "Không cho phép áp dụng gộp chương trình khuyến mại, Vui lòng chỉ chọn một chương trình hoặc bỏ chọn khuyến mại đã áp dụng trước khi chọn chương trình khác"
+msgstr "Unable to apply multiple promotions. Please select only one or remove applied promotions before selecting another one"

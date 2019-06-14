@@ -1,0 +1,14 @@
+/* 3rd party stylesheets */
+@import url("../libs/css/kendo.common.min.css");
+@import url("../libs/css/kendo.default.min.css");
+@import url("../libs/css/kendo.rtl.min.css");
+@import url("../libs/css/loading-bar.css");
+@import url("../libs/css/pretty-checkable.css");
+@import url("../libs/css/swiper.css");
+@import url("../libs/css/toastr.css");
+@import url("../libs/css/hotkeys.css");
+@import url("../libs/css/font-awesome.min.css");
+
+/* Application stylesheets */
+@import url("morestyle.css");
+@import url("styles.css");

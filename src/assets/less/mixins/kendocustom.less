@@ -1,0 +1,46 @@
+.k-dropdown-nostyle(){
+    .no-style-input;
+    height: @height-input - 6px;
+}
+.k-style-hover(){
+          border-color:transparent;
+          background-color:@bg-hover;
+          color:@gray-dark;
+          cursor:pointer;
+          background-image:none;
+          &.k-button{
+              background-color:darken(@border-color, 6.5%);
+              border-color:darken(@border-color, 6.5%);
+          }
+      
+}
+.k-style-selected(){
+      background-image:none;
+      background-color:@brand-primary;
+      border-color:@brand-primary;
+      &.k-state-hover{
+          &,
+          .k-calendar td&{
+          background-color:darken(@brand-primary, 6.5%);
+          border-color:darken(@brand-primary, 6.5%);
+          }
+      }
+}
+.k-datepicker-nostyle(){
+    .no-style-input;
+    .k-picker-wrap{
+      .no-style-input;
+      &.k-state-focused{
+          box-shadow:none;
+      }  
+    }
+}
+.link-circle(){
+    border-radius: 50%;
+    line-height: 22px;
+    height: 24px;
+    min-width: 24px;
+    padding: 0;
+    text-align: center;
+    display: inline-block;
+}

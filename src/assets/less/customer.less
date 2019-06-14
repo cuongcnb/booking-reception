@@ -1,0 +1,114 @@
+@import "variables.less";
+/***************Customer***************************/
+.customer-point{
+  h4.title{ margin: 0; font-size:@font-size + 2px;}
+  .form-group{
+    padding-right:55px;
+    &:first-child{
+      position: relative;
+      &:before{
+      content:"-";
+      position: absolute;
+      right: 25px;
+      top: 0;
+    }
+    }
+    .form-control-static{
+      padding-left:0;
+    }
+  }
+}
+.add-customer{
+  .img-profile{
+    width:@img-customer;
+    float: left;
+    margin-top: 10px;
+    .wrap-img{     
+      border: 1px dashed @gray-light;
+      position: relative;
+      display:block;
+      margin-bottom:12px;
+      width: @img-customer;
+      height:@img-customer;
+      overflow: hidden;
+      .border-radius(3px);
+      & img{
+        min-width: @img-customer;
+        height:@img-customer;
+        position: absolute;
+        margin: auto; 
+        left: -100%;
+        right: -100%;
+      }
+      &:before{
+        content: "\f030";
+        position: absolute;
+        .fa;
+        font-size: @icon-24 - 4px;
+        top: @img-customer/2;
+        left: @img-customer/2;
+        margin: -@icon-24/2 0 0 -@icon-24/2;
+        color: @color-placehoder;
+      }
+      &.avatar{
+        border: none;
+        &:before{
+          content:none;          
+        }
+        .btn-delete{
+          position: absolute;
+          right: 0;
+          top: 0;
+          .opacity(0);
+          .k-mobile &{
+            .opacity(1);
+          }
+          background-color:@brand-danger;
+          z-index: @zindex;
+          i{
+            background-color: #fff;
+          }
+        }
+        &:hover,
+        &:focus{
+          .btn-delete{
+            .opacity(1);
+          }
+        }
+      }
+    }
+    .k-upload{
+      .no-style-input;
+      margin-bottom: 5px;
+      .k-dropzone{
+        padding:0;
+          .k-button{        
+          .btn;
+          .btn-gray;
+          padding:@padding-large-vertical - 5px;
+          .no-padding-left-right;          
+          width: 100%;
+          margin: 0;
+          &.k-state-focused{
+            .box-shadow(0,0,0,0);
+            background-color: darken(@bg-btn-gray, 16.5%);
+            border-color: darken(@border-color, 16.5%);
+            outline:none;
+          }
+        }
+      }
+      .k-upload-files,
+      .k-upload-status,
+      .k-dropzone em{
+        display:none !important;
+      }            
+    }
+    .upload-error{
+      color: @brand-danger;
+    }
+  }.customer-info{
+    margin-left:@img-customer + 30px;
+    overflow: hidden; 
+  }
+}
+/***************End Customer***************************/

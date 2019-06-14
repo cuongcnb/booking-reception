@@ -1,0 +1,45 @@
+@import "variables.less";
+/***************Promotions***************************/
+.promotion-info{
+  // display: inline-block;
+  // position: relative;
+  // padding-right: 45px;
+  &,
+  & a,
+  .btn-icon .fa:before{
+    color: @color-disable;
+    .active&{
+      color: @brand-primary;
+    }
+  }
+  p{
+    margin-bottom: 5px;
+  }    
+}
+.promotion-icon{
+  .btn-icon;
+  i{
+    color: @color-promotion;
+    font-size: @font-size + 3px;
+    width: @icon-14 + 1px; 
+    height: @icon-14 + 1px;
+  }
+    &.promotion-icon-double{
+      position: relative;
+      &::before{
+        content: "";
+        border: solid @color-promotion;
+        border-width: 0 1px 1px 0;
+        position: absolute;
+        left: 4px;
+        right: -1px;
+        top: 10px;
+        bottom: -2px;
+      }
+    }&.promotion-icon-grey{      
+      .mask.mask-gift{
+        background-color: #ab9daa;
+      }
+    }
+}
+/***************End Promotions***************************/

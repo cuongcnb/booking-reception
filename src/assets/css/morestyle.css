@@ -1,0 +1,4 @@
+.product-list .swiper-slide ul li a .product-info .product-name,
+.wrap-attribute-products .attribute-products-list ul li a .product-info .product-name{
+    -webkit-box-orient: vertical;
+}

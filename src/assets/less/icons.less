@@ -1,0 +1,247 @@
+@import "variables.less";
+/***************Icons***************************/
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.fa, .fas, .far, .fal, .fab{
+    font-size: 14px;
+    color: @color-disable;
+}
+.mask{
+    width: @icon-14; 
+    height: @icon-14;
+    display:inline-block;
+    background-image: none;
+    background-color: @brand-primary;
+        &.mask-angle-up,
+        &.mask-angle-down,
+        &.mask-check-o{
+            width: @icon-12; 
+            height: @icon-12;
+        }
+        &.mask-check,
+        &.mask-ungroup,
+        &.mask-filterproducts,
+        &.mask-radio,
+        &.mask-can{
+            background-color: @gray;
+        }
+        &.mask-delete{
+        mask: url("#delete-icons");
+        -webkit-mask-box-image: url("@{img-path}delete-icon.svg"); 
+        }&.mask-more{
+        mask: url("#more-icons");
+        -webkit-mask-box-image: url("@{img-path}more_icon.svg");
+        background-color: @color-placehoder;
+        }&.mask-notifications{
+            mask: url("#notifications-icons");
+            -webkit-mask-box-image: url("@{img-path}notifications-icon.svg"); 
+            }
+        &.mask-del-number{
+        mask: url("#del-number-icon");
+        -webkit-mask-box-image: url("@{img-path}del-number-icon.svg");
+        width: 24px;
+        height: 24px;
+        background-color: @color-base; 
+        }
+        &.mask-ungroup{
+        mask: url("#ungroup-icon");
+        -webkit-mask-box-image: url("@{img-path}ungroup-icon.svg"); 
+        }
+        &.mask-filterproducts{
+        mask: url("#filterproducts-icon");
+        -webkit-mask-box-image: url("@{img-path}filterproducts-icon.svg");
+        .active &{
+            background-color: @brand-primary;
+        } 
+        }
+        &.mask-add{
+        mask: url("#add-icon");
+        -webkit-mask-box-image: url("@{img-path}add-icon.svg"); 
+        }
+        &.mask-check,
+        &.mask-check-indet,
+        &.mask-checked{
+        width: @icon-18; 
+        height: @icon-18; 
+        }        
+        &.mask-can{
+        mask: url("#can-icon");
+        -webkit-mask-box-image: url("@{img-path}can-icon.svg"); 
+        }
+        &.mask-gift{
+        -webkit-mask-box-image: url("@{img-path}gift-icon.svg");
+        width: @icon-14 + 1px; 
+        height: @icon-14 + 1px;
+        background-color: @color-promotion; 
+        }&.mask-desk{
+            -webkit-mask-box-image: url("@{img-path}desk-icon.svg");
+            width: 8px; 
+            height: 12px;
+            background-color: @color-disable; 
+            margin-left: 5px;
+            }
+        &.mask-delivery{
+            mask: url("#delivery-icons");
+            -webkit-mask-box-image: url("@{img-path}delivery-icon.svg"); 
+            }
+        &.mask-delivery2{
+            mask: url("#delivery2-icons");
+            -webkit-mask-box-image: url("@{img-path}delivery2-icon.svg"); 
+            }
+        &.mask-chair{
+            mask: url("#chair-icons");
+            -webkit-mask-box-image: url("@{img-path}chair-icon.svg"); 
+            }
+        &.mask-tramon{
+            mask: url("#tramon-icons");
+            -webkit-mask-box-image: url("@{img-path}tramon-icon.svg");
+            background-color: #fff !important; 
+            }
+        &.mask-empty{
+            mask: url("#empty-icons");
+            -webkit-mask-box-image: url("@{img-path}empty-icon.svg");
+            width: @icon-24; 
+            height: @icon-24;            
+            }
+        &.mask-quick-sale{
+        width: @icon-24; 
+        height: @icon-24;    
+        mask: url("#quick-sale");
+        -webkit-mask-box-image: url("@{img-path}quick-sale.svg");
+        .header &{
+            background-color: #fff !important;
+        }    
+    }&.mask-lazada{
+        width: @icon-24; 
+        height: @icon-24;    
+        mask: url("#lazada");
+        -webkit-mask-box-image: url("@{img-path}lazada-icon.svg");    
+    }&.mask-sendo{
+        width: @icon-24; 
+        height: @icon-24;   
+        mask: url("#sendo");
+        -webkit-mask-box-image: url("@{img-path}sendo-icon.svg");    
+    }&.mask-tiki{
+        width: @icon-24; 
+        height: @icon-24;
+        mask: url("#tiki");
+        -webkit-mask-box-image: url("@{img-path}tiki-icon.svg");    
+    }&.mask-robins{
+        width: @icon-24; 
+        height: @icon-24;  
+        mask: url("#robins");
+        -webkit-mask-box-image: url("@{img-path}robins-icon.svg");    
+    }&.mask-ebay{
+        width: @icon-24; 
+        height: @icon-24;
+        mask: url("#ebay");
+        -webkit-mask-box-image: url("@{img-path}ebay-icon.svg");    
+    }
+}
+.group-table-icon{                            
+    height: 10px;                            
+    margin-top: 4px;
+    margin-right: 10px;
+    float: left;
+    position: relative;
+&,
+&:before{
+    width: 11px;
+    border: solid @color-placehoder;
+    border-width: 3px 2px 0;
+}&:before{
+    content: "";
+    border-width: 2px 2px 0 0;
+    height: 11px;
+    position: absolute;
+    top: -6px;
+    left: 1px;
+    box-sizing: border-box;
+}
+}
+.fab.fa-facebook{
+    color: @color-fb;
+}
+.kvchannel{
+    background-position: center center;
+    background-repeat: no-repeat;        
+    .section-content &{
+        height: 38px;
+        width: 38px;  
+        &-ebay,
+        &-grab{
+            height: 50px;
+            width: 50px;
+        }      
+    }.upload-form &{
+        height: 55px;
+        width: 55px;
+    }  
+    &-adayroi{
+      background-image: url("@{img-path}channel-adayroi.svg");
+    }
+    &-amazon{
+      background-image: url("@{img-path}channel-amazon.svg");
+    }&-ebay{
+      background-image: url("@{img-path}channel-ebay.svg");
+    }&-foody{
+      background-image: url("@{img-path}channel-foody.svg");
+    }&-goviet{
+      background-image: url("@{img-path}channel-goviet.svg");
+    }&-grab{
+      background-image: url("@{img-path}channel-grab.svg");
+    }&-hotdeal{
+      background-image: url("@{img-path}channel-hotdeal.svg");
+    }&-lazada{
+      background-image: url("@{img-path}channel-lazada.svg");
+    }&-muachung{
+      background-image: url("@{img-path}channel-muachung.svg");
+    }&-now{
+      background-image: url("@{img-path}channel-now.svg");
+    }&-pasgo{
+      background-image: url("@{img-path}channel-pasgo.svg");
+    }&-sendo{
+      background-image: url("@{img-path}channel-sendo.svg");
+    }&-table{
+      background-image: url("@{img-path}channel-table.svg");
+    }&-tiki{
+      background-image: url("@{img-path}channel-tiki.svg");
+    }
+  }
+/***************Font Awesome***************************/
+.fa{
+    &&-search{
+        color: @color-disable;
+    }    
+    &.fa-credit-card{
+        font-size: @icon-24 - 2px;
+        color: @brand-primary;
+    }    
+     &.fa-warning{
+        font-size: @icon-12;
+        color:@color-discount;
+    }
+}
+.fa-chair:before {
+    content: "\f6c0";
+}
+.sales-man [class*="fa-"]:not(.k-icon),
+.autocomplete [class*="fa-"]:not(.k-icon),
+.pricebook [class*="fa-"]:not(.k-icon){
+    font-size: @icon-14 - 1px;
+    color: @color-placehoder;
+    width: @icon-14;
+    height: @icon-14;
+    text-align: center;
+}
+.k-footer .btn [class*="fa-"],
+.group-buttons [class*="fa-"]{
+    color: #fff;
+}
+/***************End Icons***************************/

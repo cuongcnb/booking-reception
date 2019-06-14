@@ -1,0 +1,60 @@
+<div class="form-wrapper">
+    <div class="header-login">
+        <a href="#" tabindex="-1">
+            <img src="https://cdn-pos.kiotviet.vn/kiotvietpos/fnb/static/assets/img/kiotvietLogo.png" alt="KiotViet" title="KiotViet">
+        </a>
+    </div>
+    <div class="content-login vi-VN">
+        <h1 class="title" translate>Đăng nhập</h1>
+        <div class="validation-summary-errors" data-valmsg-summary="true" *ngIf="(error | async)">
+            <ul>
+                <li ng-repeat="error in vm.errors">{{error | async}}</li>
+            </ul>
+        </div>
+        <form [formGroup]="loginForm" (submit)="login()" *ngIf="!(loading | async)">
+            <!-- <div class="form-group">
+                <label class="control-label-block" translate>Tên gian hàng</label>
+                <input class="form-control" type="text" formControlName="retailer">
+            </div> -->
+            <div class="form-group">
+                <label class="control-label-block" translate>Tên đăng nhập</label>
+                <input class="form-control" type="text" formControlName="username">
+            </div>
+            <div class="form-group">
+                <label class="control-label-block" translate>Mật khẩu</label>
+                <input class="form-control" type="password" formControlName="password">
+            </div>
+            <div class="form-group">
+                <label class="checkbox-btn">
+                    <input type="checkbox" formControlName="rememberMe"/>
+                    <span translate>Duy trì đăng nhập</span>
+                </label>
+                <a href="/Login/ForgotPassword?tabindex=6" translate>Quên mật khẩu?</a>
+            </div>
+            <re-captcha [site_key]="'6LfmoRMTAAAAAPUe_ErrIBK-iOObmOZIzBKS77Rd'"
+                [hidden]="!(showCaptcha | async)"
+                [language]="'vi'"
+                [theme]="'light'"
+            >
+            </re-captcha>
+            <div class="k-footer text-center">
+                <button class="btn btn-success" type="submit">
+                    <i class="fa fa-shopping-cart"></i>
+                    <span translate>Đăng nhập</span>
+                </button>
+            </div>
+        </form>
+        <div class="form-group text-center" *ngIf="(loading | async)">
+            <label class="control-label-block">
+                <i class="fa fa-spinner fa-spin fa-fw"></i>
+                {{'Đang đăng nhập' | translate}}...
+            </label>
+        </div>
+    </div>
+    <div class="other">
+        <strong>
+            <i class="fa fa-phone-square"></i>
+            <span translate>Hỗ trợ</span>: 18006162</strong>
+    </div>
+
+</div>

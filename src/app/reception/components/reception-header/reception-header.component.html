@@ -1,0 +1,39 @@
+<div class="header">
+    <div class="header-left">
+        <div class="kv-tabs">
+            <ul>
+                <li>
+                    <a href="javascript:void(0);" class="active" translate>
+                        Lễ tân
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="header-right">
+        <ul class="header-right-ul pull-right">
+                <li class="user-name">                
+                        <a href="javascript:void(0);">
+                            <span>
+                                admin
+                            </span>
+                        </a>
+                    </li>
+                    <li class="menu-bar">
+                        <a class="list-bar"><i class="fa fa-navicon"></i></a>
+                        <ul>
+                            <li>
+                                <a [href]="managerLink">
+                                    <i class="fa-fw fa fa-list-alt"></i> <span translate>Quản lý</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0);" (click)="logout()">
+                                    <i class="fa-fw fa fa-external-link"></i> <span translate>Đăng xuất</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+        </ul>
+    </div>
+</div>

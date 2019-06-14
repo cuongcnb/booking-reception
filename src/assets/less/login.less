@@ -1,0 +1,124 @@
+@import "variables.less";
+/***************Login***************************/
+app-root.login{
+  width: 100%;
+  height: 100%;
+  float: left;
+  background:#000 url("@{img-path}login_bg.jpg") center center no-repeat;
+  background-size:cover;
+  overflow:hidden;
+  font-size:@font-size + 2px;
+  color: @gray-dark;
+  // *:not(.form-control){
+  //   color: @color-white;
+  // }
+  .form-wrapper{
+    width:@width-form;
+    margin:0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    overflow: auto;
+    .header-login{
+      padding:15px;
+      background-color: @color-white;
+      .border-top-radius(10px);
+      .text-center;
+    }
+    .content-login{
+      .border-bottom-radius(10px);
+      background-color: @bg-login-form;
+      box-shadow:inset 0 1px 4px darken(@bg-login-form, 16.5%);
+      padding:@padding-window-horizontal @padding-window-vertical;
+      .form-group{
+        margin-bottom:@margin-form-group + 5px;
+      }
+      h1.title,
+      .control-label-block{
+         text-shadow:1px 1px 2px #002941;
+      }
+      .k-footer{
+        margin-top:30px;
+        .fa{
+          font-size: @icon-18;
+        }
+      }
+      a{
+        color: #fff;
+        .opacity(.6);
+        &:hover{
+          .opacity(1);
+        }
+      }
+    }h1.title{
+      .text-center;
+      .font-normal;
+    }
+    .control-label-block,
+    .form-control{
+      font-size:@font-size + 4px;
+    }.control-label-block{
+      display:block;
+      margin-bottom:8px;
+      .font-bold;
+      .fa{
+        color: #fff;
+      }
+    }
+    h1.title,
+      .control-label-block,
+      .checkbox-btn,
+      .other,
+      .other a{
+          color: @color-white;
+      }
+     .checkbox-btn{
+        input[type="checkbox"],
+        input[type="hidden"]{
+          & + span{
+            padding: 0 0 0 10px;
+            color:#fff;
+            &:before{
+              .opacity(1);
+              color:#fff;
+            }
+          }
+          &:checked{
+          &+span,
+          &+ input +span{            
+          &:before{
+            .opacity(1);
+            color:#fff !important;
+          }
+        }
+        }
+        }
+        padding-right: 15px;
+        margin-right: 15px;
+        border-right: 1px solid #b7c9d7;
+     }
+    .other{
+      >*{
+        .opacity(.6);
+      }
+      padding:10px;
+      .text-center;
+      font-size:@font-size + 1px;
+      .fa{
+        color: #fff;
+      }
+      .split {
+          padding: 0 5px;
+          display: inline-block;
+      }
+      a:hover{
+        .opacity(1);
+      }
+    }
+  }
+}
+.captcha-login{
+  margin-bottom: @margin-form-group;
+}
+/***************End Login***************************/

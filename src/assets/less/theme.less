@@ -1,0 +1,170 @@
+/***************Theme***************************/
+
+.theme(1){
+  @brand-primary:#0090DA;
+}
+.theme(2){
+  @brand-primary:#4b6580;
+}
+.theme(3){
+  @brand-primary:#27ae60;
+}
+.theme(4){
+  @brand-primary:#9b59b6;
+}
+.theme(5){
+  @brand-primary:#d64457;
+}
+.theme(6){
+  @brand-primary:#6e9992;
+}
+.theme(7){
+  @brand-primary:#16a085;
+}
+.theme(8){
+  @brand-primary:#E67E22;
+}
+.theme(9){
+  @brand-primary:#d73b8c;
+}
+
+
+.buildThemes(@index) when (@index < @numberOfThemes + 1) {
+
+  .theme-@{index} {
+      .theme(@index);
+      .fa.fa-credit-card,
+      .fa.fa-wifi,
+      .btn-icon.btn-info:hover > i, 
+      .btn-icon.btn-info:focus > i,
+      .text-hightlight,
+      .wrap-wifi:not(.no-wifi),
+      .title-line,
+      .promotion-info.active,
+      .promotion-info.active a,
+      .promotion-info.active .btn-icon .fa:before,
+      .wrap-checkbox-btn a,
+      tags-input .host .btn-control, 
+      .float-nav .float-nav-content h3.title a,
+      .float-nav .float-nav-content .scroll-content .filter-content h4.title,
+      .autocomplete .output-complete ul li p.name-item i.unit-label,
+      .customer-search-autocomplete .autocomplete .form-control#infoCustomer,
+      .product-cart .row-list .cell-units .form-control .k-input,
+      .product-list .action-toolbar .filter-info a:hover,
+      .product-cart .row-list.row-serial .cells-serial .btn-control,
+      .product-list .swiper-slide ul li a .product-img .product-price,
+      .checkbox-btn input[type="checkbox"]:checked + span:before, 
+      .checkbox-btn input[type="checkbox"]:checked + input + span:before,
+      .kv-treeview .k-group .k-item .k-checkbox-wrapper .k-checkbox:indeterminate + .k-checkbox-label:before,
+      .checkbox-btn input[type="checkbox"]:hover + span:before, 
+      .kv-treeview .k-group .k-item .k-checkbox-wrapper .k-checkbox:indeterminate + .k-checkbox-label:before,
+      .checkbox-btn input[type="checkbox"]:hover + input + span:before,
+      .checkbox-btn input[type="checkbox"]:focus + span:before, 
+      .checkbox-btn input[type="checkbox"]:focus + input + span:before,
+      .radio-custom label input[type="radio"]:checked + span:before,
+      .radio input[type="radio"]:checked + span:before, 
+      .radio input[type="radio"]:hover + span:before, 
+      .radio input[type="radio"]:focus + span:before,
+      .radio-inline input[type="radio"]:checked + span:before,
+      .radio-inline input[type="radio"]:hover + span:before, 
+      .radio-inline input[type="radio"]:focus + span:before,
+      .checkbox-inline input[type="checkbox"]:checked + span:before,
+      .checkbox-inline input[type="checkbox"]:hover + span:before, 
+      .checkbox-inline input[type="checkbox"]:focus + span:before,
+      .cell-units .k-dropdown.form-control .k-dropdown-wrap .k-icon:before,
+      .k-animation-container .k-list-container .k-item .active:before,
+      .k-animation-container .k-list-container .k-item.k-state-selected:before,
+      .product-list .action-toolbar [class^="action-"] a.active:not(.group-products) .fa,
+      .form-group .form-label:not(.has-icon) .btn-icon:hover .fa,      
+      .kv-treeview .k-group .k-item .k-checkbox-wrapper .k-checkbox:checked + .k-checkbox-label:before,
+      //FNB
+      .row-list .cell-time .btn-icon, .row-list .cell-time .btn-icon i,      
+      .table-list.product-list .swiper-container .swiper-wrapper .swiper-slide ul li a .product-info .wrap-note .has-note .note-hint,
+      .product-list .swiper-container .swiper-wrapper .swiper-slide ul li a .product-info .product-price,
+      .popover-notification .notification-filter a.active,
+      .customer-search-autocomplete .autocomplete a.form-control,
+      .header .header-tab-wrap > ul > li:not(.add-btn).active a,
+      .col-right .support ul li .fa.fa-map-marker,
+      .product-list .swiper-paging strong
+      {
+        color: @brand-primary;
+      }
+      .mask.mask-add,
+      .mask.mask-checked,
+      .mask.mask-radiochecked,
+      .mask.mask-quick-sale,
+      .mask.mask-angle-up,
+      .mask.mask-angle-down,
+      .mask.mask-check-o,
+      .active .mask.mask-filterproducts,
+      .active.btn-icon.btn-can > i,       
+      .header,
+      .toogle.active,
+      .chevron-btn,
+      .btn-primary,
+      .k-state-selected,
+      tags-input .host .tags .tag-item,
+      .kv-tabs > ul > li > a.active,
+      .checkbox-custom label input[type="checkbox"]:checked + span,
+      .wrap-attribute-products .attribute-products .attribute-list a.btn.active,
+      .header-right ul.header-right-ul > li.menu-bar.active > ul li > a:hover,
+      .list-filter .btn:not(.btn-gray):hover, 
+      .list-filter .btn:not(.btn-gray).active, {
+        background-color: @brand-primary;
+      }
+      .k-state-selected,
+      .checkbox-custom label input[type="checkbox"]:checked + span,
+      .wrap-attribute-products .attribute-products .attribute-list a.btn.active,
+      .cart-refund-products .search-wrapper .form-control{
+        border-color: @brand-primary;
+      }
+      .cart-refund-products cart-products-component .product-cart,
+      .popover-notification .notification-filter a.active{
+        border-bottom-color: @brand-primary;
+      }
+      .form-actions.form-payment{
+        border-top-color: @brand-primary;
+      }
+      .header .header-right ul.header-right-ul > li:hover:not(.user-name):not(.menu-bar) > a, 
+      .header .header-right ul.header-right-ul > li:hover:not(.user-name):not(.menu-bar) .k-dropdown,
+      .header .header-right ul.header-right-ul > li.menu-bar a.list-bar:hover,
+       {
+        background-color: darken(@brand-primary, 4.5%);
+      }
+      .btn {
+        &-primary{
+            &:hover{
+              background-color: darken(@brand-primary, 6.5%);
+            }&.active,
+            &:active,
+            &:focus,
+            &.focus{
+                background-color: darken(@brand-primary, 16.5%);
+              }
+        }
+      }
+      .header .header-tab-wrap ul li:not(.add-btn) a,
+      .header-right ul.header-right-ul >li.menu-bar ul,
+      .header-right ul.header-right-ul >li.menu-bar.active > a,
+      .header .header-tab-wrap > ul > li a:hover,
+      .header .header-left .kv-tabs ul li a:not(.active):hover,
+      .header .header-right ul.header-right-ul > li.print-button .badge{
+        background-color: darken(@brand-primary, 7.5%);
+      }
+      .header .header-tab-wrap ul li:not(.add-btn) a:hover{
+        background-color: darken(@brand-primary, 10.5%);
+      }
+      .header .header-tab-wrap ul li:not(.add-btn) a.active{
+        color: darken(@brand-primary, 7.5%);
+        background-color:#fff !important; 
+      }
+      .header .popover.bottom > .arrow,
+      #cbSelectBranch-list:before{
+          border-bottom-color:darken(@brand-primary, 6.5%);;
+      }
+    }
+    .buildThemes(@index + 1);
+}
+.buildThemes(@index) {}
+.buildThemes(1);
+/***************End Theme***************************/

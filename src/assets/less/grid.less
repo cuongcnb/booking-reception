@@ -1,0 +1,449 @@
+@import "variables.less";
+/***************Grid***************************/
+table{
+  th,
+  td{
+  &.cell{
+    &-checkbox{
+      .td-width(@cell-checkbox + 4);
+      box-sizing: content-box;
+      .textalign(center) !important;
+      .checkbox-inline,
+      .radio-inline{
+        padding-left:@icon-14;
+        span{
+          min-height:@icon-14;
+        }
+        input[type="checkbox"] + span:before,
+        input[type="radio"] + span:before{
+          left:-@icon-14;
+          top:-2px;
+          font-size: @icon-18 - 1px;
+        }
+        input[type="checkbox"] + span:before{
+          top:2px;
+        }
+        input[type="checkbox"]:checked + span:before{
+          font-size: @icon-18 - 2px;
+        }
+      }
+    }
+    &-order{
+      .td-width(@cell-order);
+      .textalign(right);
+          }&-action{
+      .td-width(@cell-action);
+    }&-code{
+      .td-width(@cell-code-grid);
+      .modal-reception-list-reservations &,
+      .modal-reservation-list &{
+        .td-width((@cell-code-grid - 30));
+      }
+      .textalign(left);
+      text-overflow: inherit;
+      word-wrap: break-word;
+    }&-customer{
+      .td-width(@cell-customer);
+    }&-units{
+      .td-width(@cell-units);
+      .fa-users{
+        margin-top: 4px;
+      }
+      .textalign(right);
+    }&-quatity{
+      .td-width(@cell-quatity);
+    }&-change-price{
+      .td-width(@cell-change-price);
+    }&-price,
+    &-customers{
+      .td-width(@cell-price);
+      //.textalign(right) !important;
+    }&-date{
+      .td-width(@cell-date);
+    }&-date-time{
+      .td-width(@cell-date-time);
+    }&-email{
+      .td-width(@cell-email);
+    }&-tables{
+      .td-width(@cell-tables);
+    }&-total{
+      .td-width(@cell-total);
+      .textalign(right) !important;
+    }&-mobilenumber{
+      .td-width(@cell-mobilenumber);
+      .textalign(right) !important;
+    }&-balance{
+      .td-width(@cell-balance);
+      .textalign(left) !important;
+    }&-status{
+      .td-width(@cell-status);
+      .textalign(left) !important;
+    }&-tables{
+      .td-width(@cell-tables);
+    }&-customers{
+      .td-width(@cell-customers);
+    }&-btn{
+      .td-width(@cell-btn);
+      .modal-reception-list-reservations &,
+      .modal-reservation-list &{
+        .td-width((@cell-btn + 50));
+      }
+      .textalign(center) !important;
+    }&-btn-choose{
+      .td-width(@cell-btn-choose);
+      .textalign(center) !important;
+    }&-product-choose{
+      .td-width(@cell-product-choose);
+      .form-control-static{
+        padding-left: @cell-action;
+      }
+      .search-autocomplete{margin-bottom: 0;
+         .btn{position: absolute; right: 0; top: 0; padding: 7px 12px;}
+      }     
+      .number{
+        font-weight: bold;
+        color: @color-promotion;
+      }
+    }
+  }
+}
+}
+.table{
+  border-collapse: collapse;
+  font-size: @font-size;
+  tr{
+    th,td{
+    padding:@padding-table-horizontal @padding-table-vertical (@padding-table-horizontal + 3px);
+    border-style: solid;
+    vertical-align: top;
+    .textalign(left);
+    &:first-child{
+        border-left-width: 1px;
+      }&:last-child{
+        border-right-width: 1px;
+      }
+  }
+  th{
+      background-color: @background-th;
+      border-color: @border-th;
+      border-width: 1px 0;
+      padding:(@padding-table-horizontal + 3px) (@padding-table-vertical + 3px);
+      .table-row-border&{
+        border: none;
+        background: transparent;
+        kv-promotion-selection &{
+          white-space: nowrap;
+        }
+      }
+    }td{
+      border-color: @border-td;
+      border-width:0 0 1px;
+    }
+    &:nth-child(odd){
+      background-color: @tr-odd;
+      .table-row-border&{
+        background: transparent;
+      }
+    }
+    &.tr-header{
+      background-color:darken(@tr-odd, 0.5%);
+      td{
+        font-weight:bold;
+        .textalign;
+      }
+    }
+  }
+  .td-checkbox{
+    .td-width(14px);
+    .textalign(center);
+    .checkbox-inline{
+      padding-left:@icon-14;
+      span{
+        min-height:@icon-14;
+      }
+      input[type="checkbox"] + span:before{
+        left:-@icon-14;
+        top:1px;
+      }
+    }
+  }.ma-thu{
+    .td-width(100px);
+  }.muc-thu{
+    .td-width(100px);
+    .textalign;
+  }.thu-hoa-don{
+    .td-width(120px);
+    .textalign;
+  }
+  &-row-border{
+    width: 100%;
+    border-collapse: collapse;
+    tr{
+      td,th{
+        border-color: @border-color;
+        kv-promotion-selection &{
+          vertical-align: top;
+          .control-label{
+            font-weight: normal;
+            padding-left: 0;
+            padding-right: 0;
+          }
+          &:last-child{
+            padding-right: 0;
+          }
+        }
+        &:first-child{
+          border-left-width:0;
+        }
+        &:last-child{
+          border-right-width:0;
+        }
+      }
+    }
+  }
+  .btn{
+    padding: (@padding-base-vertical - 2px) @padding-base-horizontal;
+  }
+}
+.grid-blue{
+  border-collapse: collapse;
+  font-size: @font-size + 1px;
+  tr{    
+    th,td{
+    padding:(@padding-table-horizontal - 2px) @padding-table-vertical;
+    border-style: solid;
+    vertical-align: top;
+    color: @color-base;
+    &:first-child{
+        border-left-width: 1px;
+      }&:last-child{
+        border-right-width: 1px;
+      }
+  }
+  th{
+      background-color: @background-th;
+      border-color: @border-th;
+      border-width: 1px 0;
+      >a{
+            display: block;
+            min-height: 19px;
+            line-height: 19px;
+            margin: -.5em -.6em -.4em 0;
+            padding: .5em .6em .4em 0;
+            overflow: hidden;
+            text-overflow: ellipsis;            
+      }
+      &:not(:last-child) a{
+              border-right: 1px solid  @border-th;
+            }      
+    }td{
+      border-color: @border-td;
+      border-width:0 0 1px;
+    }
+    &:nth-child(odd){
+      background-color: @tr-odd;
+    }
+    &.tr-header{
+      background-color:darken(@tr-odd, 0.5%);
+      td{
+        font-weight:bold;
+        .textalign;
+      }      
+    }
+  }
+  .td-checkbox{
+    .td-width(14px);
+    .textalign(center);
+    .checkbox-inline{
+      padding-left:@icon-14;
+      span{
+        min-height:@icon-14;
+      }
+      input[type="checkbox"] + span:before{
+        left:-@icon-14;
+        top:1px;
+      }
+    }
+  }
+}
+.k-grid-blue{
+  tr{
+    &.reservation-meta-data{
+      background-color: #fefced;
+      &:hover{
+        background: #e6f5d6!important;
+      }
+    }
+  }
+  td,
+  .k-grid-content,
+  .paging-box,
+  {
+    border: 1px solid @border-td;
+  }
+  td{
+    //vertical-align: top;
+    input[type="checkbox"]{
+      margin-top: 2px;
+    }
+  }
+  td,
+  tr{
+    &.k-state-selected{
+      background-color:transparent;
+    }
+  }
+   .k-grid-header,
+   .k-grid-header-wrap,
+   .k-grid-header-wrap .k-header,
+   .k-grid-content tr:hover,
+   .paging-box .k-pager-wrap .k-link,
+   .paging-box .k-pager-wrap .k-state-selected{
+     background-image:none;
+   }
+  // border: 1px solid @border-td;
+   border-width:0;
+  .k-grid-header{
+    padding-top:3px;
+    padding-bottom:3px;
+    padding-right: 0 !important;
+    border:1px solid;
+    .k-header{
+      padding:(@padding-table-horizontal - 2px) @padding-table-vertical;
+      .reception-page &{
+        padding:@padding-table-horizontal @padding-table-vertical;
+      }
+    }
+    .k-header{
+      &,
+      & .k-link{
+      color: @color-base;
+      font-weight: bold;
+    }
+    }
+    &,
+    & .k-grid-header-wrap,
+    & .k-grid-header-wrap .k-header
+    {
+          background-color: @background-th;
+          border-color: @border-th;
+          vertical-align:middle;
+    }
+    .k-icon{
+      &.k-i-sort-desc-sm,
+      &.k-i-sort-asc-sm{
+        .fas;
+        font-size: 14px;
+      }
+      &.k-i-sort-asc-sm{
+        &::before{
+          content: "\f0d8";
+        }
+      }&.k-i-sort-desc-sm{
+        &::before{
+          content: "\f0d7";
+        }
+      }
+    }
+  }
+  .k-grid-content{
+        border-width:0 1px 1px;
+        width: auto;
+        overflow: hidden !important;
+        //.reception-page &,
+        kv-reception-list-view &,
+        kv-cashier-reservation-list &{
+          overflow-x: auto !important;
+          overflow-y: scroll !important;
+          max-height: calc(~"100vh" - 207px);
+        }
+        tr{
+          &.k-alt{
+            background-color: @tr-odd;
+          }
+          &:hover{
+          background-color: @bg-hover;
+        }
+        &.k-grid-norecords{
+          td{
+            padding:75px @padding-table-vertical;
+            .textalign(center);
+            color: @color-disable;
+            background-color: @tr-odd;
+          }
+        }
+     }     
+  }
+  .k-pager-wrap{
+    border-width:0 1px 1px;
+    display: block;
+    text-align: right;
+    .k-pager-info{
+      display: inline-block;
+    }
+    // background-image:none;
+    // background-color: transparent;
+         .k-link{
+           &:hover{
+             background-color:@border-td;
+           }
+         }
+         .k-link,
+         .k-state-selected
+         {
+          .border-radius;
+          border-color: transparent;
+        }
+        .k-pager-numbers .k-state-selected{
+          background-color:@brand-success;
+          background-image: none;
+          color: #fff;
+        }
+    }
+  .paging-box{
+    .clearfix();
+    border-width:0 1px 1px;
+    background-image:none;
+    background-color: @tr-odd;
+    .k-pager-wrap{
+      float: right;
+      .k-link{
+        .k-icon{
+          vertical-align: text-bottom;
+        }
+      }
+    }
+  }
+  td{
+    padding:@padding-table-horizontal @padding-table-vertical;
+    border-width:0 0 1px;
+  }
+  &.k-grid-noscroll{
+    .k-grid-header{
+      padding-right: 0 !important;
+    }
+    .k-grid-content{
+      overflow: hidden;
+    }
+
+  }
+  .btn{
+    padding: (@padding-base-vertical - 2px) @padding-base-horizontal;
+    .icon-12{
+      margin: 0 0 -1px 5px;
+    }
+  }
+}
+.k-none-grid{
+  border: none;
+  .k-grid-header{
+    display: none;    
+  }tr{
+    &.k-alt{
+      background-color: transparent;
+    }
+  }td{
+    padding: 0;
+  }
+}
+/***************End Grid***************************/

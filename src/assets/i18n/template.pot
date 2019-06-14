@@ -1,0 +1,2251 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid " - Nhà bếp"
+msgstr ""
+
+msgid " Không có kết nối internet"
+msgstr ""
+
+msgid " SL từ "
+msgstr ""
+
+msgid " hóa đơn"
+msgstr ""
+
+msgid " thành công"
+msgstr ""
+
+msgid " tạm tính"
+msgstr ""
+
+msgid " đã bị xóa"
+msgstr ""
+
+msgid " đã tồn tại trong đơn hàng"
+msgstr ""
+
+msgid "---Tất cả---"
+msgstr ""
+
+msgid "App KiotViet Bán hàng"
+msgstr ""
+
+msgid "Bàn chưa có hóa đơn nào"
+msgstr ""
+
+msgid "Bàn đang được sử dụng."
+msgstr ""
+
+msgid "Bán hàng"
+msgstr ""
+
+msgid "Báo bếp khi thanh toán"
+msgstr ""
+
+msgid "Báo bếp khi thanh toán ."
+msgstr ""
+
+msgid "Báo cáo cuối ngày"
+msgstr ""
+
+msgid "Bạn chưa chọn Khách hàng để tích điểm"
+msgstr ""
+
+msgid "Bạn chưa chọn hàng khuyến mại"
+msgstr ""
+
+msgid "Bạn chưa chọn khách hàng"
+msgstr ""
+
+msgid "Bạn chưa chọn sản phẩm khuyến mại"
+msgstr ""
+
+msgid "Bạn chưa nhập Khu vực"
+msgstr ""
+
+msgid "Bạn chưa nhập Phường xã"
+msgstr ""
+
+msgid "Bạn chưa nhập Tên khách hàng"
+msgstr ""
+
+msgid "Bạn chưa nhập giá trị Thu từ khách"
+msgstr ""
+
+msgid "Bạn chưa nhập số lượng trả món"
+msgstr ""
+
+msgid "Bạn chưa nhập thông tin khách hàng"
+msgstr ""
+
+msgid "Bạn chưa nhập thời gian lọc"
+msgstr ""
+
+msgid "Bạn chưa nhập tên Đối tác giao hàng"
+msgstr ""
+
+msgid "Bạn chỉ có thể xóa phiếu đặt bạn tạo."
+msgstr ""
+
+msgid "Bạn chỉ được chọn 1 chương trình khuyến mại Giảm giá/Đồng giá (theo SL mua)"
+msgstr ""
+
+msgid "Bạn có chắc chắn muốn cập nhật không"
+msgstr ""
+
+msgid "Bạn có chắc chắn muốn giảm số lượng của món"
+msgstr ""
+
+msgid "Bạn có chắc chắn muốn hủy món"
+msgstr ""
+
+msgid "Bạn có chắc chắn muốn hủy order này không?"
+msgstr ""
+
+msgid "Bạn có chắc chắn muốn hủy phiếu đặt bàn"
+msgstr ""
+
+msgid ""
+"Bạn có chắc chắn muốn loại bỏ hàng hóa này khỏi danh sách không hiển thị "
+"trên Bếp?"
+msgstr ""
+
+msgid "Bạn có chắc chắn muốn thanh toán?"
+msgstr ""
+
+msgid "Bạn có chắc chắn muốn tách đơn"
+msgstr ""
+
+msgid "Bạn có chắc chắn muốn xóa đặt bàn"
+msgstr ""
+
+msgid "Bạn có chắc chắn muốn đóng đơn trả hàng không?"
+msgstr ""
+
+msgid "Bạn có chắc chắn áp dụng khuyến mại không"
+msgstr ""
+
+msgid "Bạn có muốn cập nhật danh sách phòng/bàn trên phiếu đặt bàn tương ứng?"
+msgstr ""
+
+msgid "Bạn không có quyền xem thông tin này."
+msgstr ""
+
+msgid "Bạn không thể để khách vào phòng/bàn này"
+msgstr ""
+
+msgid "Bạn vui lòng đợi ít phút để hệ thống ổn định trước khi đồng bộ!"
+msgstr ""
+
+msgid "Bạn vừa chuyển sang chi nhánh"
+msgstr ""
+
+msgid "Bạn vừa cập nhật đơn hàng. Click"
+msgstr ""
+
+msgid "Bạn vừa xóa hết hàng trong đơn. Hủy đơn hàng ngay bây giờ?"
+msgstr ""
+
+msgid "Bạn đang offline Sẽ lưu các thay đổi tại máy."
+msgstr ""
+
+msgid "Bạn đang offline. Sẽ lưu các thay đổi tại máy."
+msgstr ""
+
+msgid "Bảng giá chung"
+msgstr ""
+
+msgid "Bật chuông"
+msgstr ""
+
+msgid "Bật chế độ tự động in"
+msgstr ""
+
+msgid "Bỏ chọn nhóm hàng"
+msgstr ""
+
+msgid "Bỏ chọn phòng/bàn"
+msgstr ""
+
+msgid "Bỏ qua"
+msgstr ""
+
+msgid "Bỏ áp dụng khuyến mại"
+msgstr ""
+
+msgid ""
+"Bộ nhớ trống ổ C không đủ để hệ thống thực hiện tốt các tính năng trên màn "
+"hình bán hàng. Xin vui lòng xóa bớt dữ liệu không sử dụng và nhấn phím F5 "
+"để tiếp tục bán hàng"
+msgstr ""
+
+msgid "Bởi"
+msgstr ""
+
+msgid "CN"
+msgstr ""
+
+msgid "Can tra khach"
+msgstr ""
+
+msgid "Chi nhánh"
+msgstr ""
+
+msgid "Chuyển khoản"
+msgstr ""
+
+msgid "Chuyển đổi giữa chế độ xem lịch và chế độ xem danh sách"
+msgstr ""
+
+msgid "Chúng tôi luôn sẵn sàng hỗ trợ Quý khách tại Hotline:"
+msgstr ""
+
+msgid "Chưa chọn chi nhánh cho phiếu đặt"
+msgstr ""
+
+msgid "Chưa chọn hàng để thanh toán."
+msgstr ""
+
+msgid "Chưa chọn hóa đơn để thực hiện ghép hóa đơn"
+msgstr ""
+
+msgid "Chưa chọn món để tách"
+msgstr ""
+
+msgid "Chưa chọn phòng/bàn để tách đến"
+msgstr ""
+
+msgid "Chưa có thực đơn nào"
+msgstr ""
+
+msgid "Chưa có đơn hàng cần chế biến"
+msgstr ""
+
+msgid "Chưa có đơn hàng cần cung ứng"
+msgstr ""
+
+msgid "Chưa giao hàng"
+msgstr ""
+
+msgid "Chưa sử dụng"
+msgstr ""
+
+msgid "Chưa thanh toán"
+msgstr ""
+
+msgid "Chưa đăng nhập vào ứng dụng"
+msgstr ""
+
+msgid "Chấp nhận"
+msgstr ""
+
+msgid "Chắc chắn"
+msgstr ""
+
+msgid "Chế biến xong một"
+msgstr ""
+
+msgid "Chế biến xong tất cả"
+msgstr ""
+
+msgid "Chế độ nhập"
+msgstr ""
+
+msgid "Chế độ nhập nhanh"
+msgstr ""
+
+msgid "Chế độ nhập thường"
+msgstr ""
+
+msgid "Chế độ sử dụng cân điện tử"
+msgstr ""
+
+msgid "Chọn"
+msgstr ""
+
+msgid "Chọn Phường/Xã"
+msgstr ""
+
+msgid "Chọn Tỉnh/TP - Quận/Huyện"
+msgstr ""
+
+msgid "Chọn chi nhánh ..."
+msgstr ""
+
+msgid "Chọn hàng khuyến mại"
+msgstr ""
+
+msgid "Chọn hóa đơn trả hàng"
+msgstr ""
+
+msgid "Chọn mẫu in"
+msgstr ""
+
+msgid "Chọn nhóm hàng"
+msgstr ""
+
+msgid "Chọn phiếu đặt bàn để tạo đơn"
+msgstr ""
+
+msgid "Chọn phòng/bàn"
+msgstr ""
+
+msgid "Chọn phòng/bàn ..."
+msgstr ""
+
+msgid "Chọn tất cả nhóm phòng/bàn"
+msgstr ""
+
+msgid "Chọn để in lại các món đã in lỗi"
+msgstr ""
+
+msgid "Chọn ảnh"
+msgstr ""
+
+msgid "Chờ chế biến"
+msgstr ""
+
+msgid "Chờ xếp bàn"
+msgstr ""
+
+msgid "Click để bật"
+msgstr ""
+
+msgid "Cung ứng một"
+msgstr ""
+
+msgid "Cung ứng tất cả"
+msgstr ""
+
+msgid "Cài đặt"
+msgstr ""
+
+msgid "Cá nhân"
+msgstr ""
+
+msgid "Các khoản thu khác"
+msgstr ""
+
+msgid "Còn cần thu"
+msgstr ""
+
+msgid "Có"
+msgstr ""
+
+msgid "Có Internet"
+msgstr ""
+
+msgid "Có khách đặt trước"
+msgstr ""
+
+msgid "Có lỗi khi cập nhật"
+msgstr ""
+
+msgid "Có lỗi xảy ra. Xin vui lòng thử lại."
+msgstr ""
+
+msgid "Có thay đổi trong danh sách hàng khuyến mại đã thông báo đến bar/bếp"
+msgstr ""
+
+msgid "Công ty"
+msgstr ""
+
+msgid "Cảnh báo"
+msgstr ""
+
+msgid "Cần thanh toán"
+msgstr ""
+
+msgid "Cần trả khách"
+msgstr ""
+
+msgid "Cập nhật"
+msgstr ""
+
+msgid "Cập nhật ngay"
+msgstr ""
+
+msgid "Cập nhật phiếu"
+msgstr ""
+
+msgid "Cập nhật phiếu đặt bàn thành công."
+msgstr ""
+
+msgid "Cập nhật thành công!"
+msgstr ""
+
+msgid "Cập nhật thông tin không thành công"
+msgstr ""
+
+msgid "Cập nhật thông tin thành công"
+msgstr ""
+
+msgid "Cập nhật tính năng"
+msgstr ""
+
+msgid "Cập nhật đối tác giao hàng"
+msgstr ""
+
+msgid "Cộng vào tài khoản khách hàng:"
+msgstr ""
+
+msgid "Danh sách các phím tắt"
+msgstr ""
+
+msgid "Danh sách hàng hóa không hiển thị trên bếp"
+msgstr ""
+
+msgid "Danh sách phòng/bàn gộp"
+msgstr ""
+
+msgid "Danh sách phòng/bàn trống"
+msgstr ""
+
+msgid "Danh sách đặt bàn"
+msgstr ""
+
+msgid "Dung lượng file không được lớn quá 2 MB"
+msgstr ""
+
+msgid "Duy trì đăng nhập"
+msgstr ""
+
+msgid "Dư nợ"
+msgstr ""
+
+msgid "Dư nợ khách hàng"
+msgstr ""
+
+msgid "Dư nợ đầu kỳ"
+msgstr ""
+
+msgid "Dừng tính"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email không hợp lệ"
+msgstr ""
+
+msgid "File không đúng định dạng hình ảnh"
+msgstr ""
+
+msgid "Ghi chú"
+msgstr ""
+
+msgid "Ghi chú / Món thêm"
+msgstr ""
+
+msgid "Ghi chú cho sản phẩm"
+msgstr ""
+
+msgid "Ghi chú phòng/bàn"
+msgstr ""
+
+msgid "Ghi chú đơn hàng"
+msgstr ""
+
+msgid "Ghi chú..."
+msgstr ""
+
+msgid "Ghi chú/Món thêm"
+msgstr ""
+
+msgid "Ghép đơn"
+msgstr ""
+
+msgid "Ghép đến"
+msgstr ""
+
+msgid "Giao dịch được cập nhật thành công"
+msgstr ""
+
+msgid "Giao đi"
+msgstr ""
+
+msgid "Giá"
+msgstr ""
+
+msgid "Giá mới"
+msgstr ""
+
+msgid "Giá trị"
+msgstr ""
+
+msgid "Giá trị hóa đơn"
+msgstr ""
+
+msgid "Giá trị mới"
+msgstr ""
+
+msgid "Giá trị thanh toán bằng điểm không được lớn hơn tiền khách cần trả"
+msgstr ""
+
+msgid "Giảm giá"
+msgstr ""
+
+msgid "Giảm giá / Đồng giá (theo số lượng mua)"
+msgstr ""
+
+msgid "Giảm giá HĐ"
+msgstr ""
+
+msgid "Giảm giá hàng"
+msgstr ""
+
+msgid "Giảm giá hóa đơn"
+msgstr ""
+
+msgid "Giảm giá hóa đơn không được lớn hơn Tổng tiền hàng"
+msgstr ""
+
+msgid "Giảm giá đơn hàng"
+msgstr ""
+
+msgid "Giảm giá:"
+msgstr ""
+
+msgid "Giới tính"
+msgstr ""
+
+msgid "Giờ"
+msgstr ""
+
+msgid "Giờ kết thúc phải sau giờ bắt đầu."
+msgstr ""
+
+msgid "Giờ đến"
+msgstr ""
+
+msgid "Giờ đến không được trước ngày giờ hiện tại"
+msgstr ""
+
+msgid "Gửi yêu cầu in chế biến lại thành công"
+msgstr ""
+
+msgid "Gửi yêu cầu in chế biến lại thất bại"
+msgstr ""
+
+msgid "Gửi yêu cầu thanh toán cho "
+msgstr ""
+
+msgid "Hiển thị"
+msgstr ""
+
+msgid "Hiển thị nhóm con trên danh sách nhóm hàng"
+msgstr ""
+
+msgid "Hiện tại bạn không có phòng bàn nào. Vui lòng cập nhật"
+msgstr ""
+
+msgid "Hotline"
+msgstr ""
+
+msgid "Hoàn lại"
+msgstr ""
+
+msgid "Hoàn trả thu khác"
+msgstr ""
+
+msgid "Hoàn trả tạm ứng"
+msgstr ""
+
+msgid "Hàng hóa"
+msgstr ""
+
+msgid "Hàng khuyến mại"
+msgstr ""
+
+msgid "Hàng này sẽ không được gửi đến Bếp để chế biến khi đơn hàng được thông báo."
+msgstr ""
+
+msgid "Hóa đơn"
+msgstr ""
+
+msgid "Hóa đơn trên"
+msgstr ""
+
+msgid "Hóa đơn đang trống, không thể thực hiện thao tác này"
+msgstr ""
+
+msgid "Hệ thống giới hạn"
+msgstr ""
+
+msgid "Hệ thống không theo dõi công nợ với khách lẻ"
+msgstr ""
+
+msgid "Hệ thống đang xử lý dữ liệu, bạn vui lòng đợi ít giây và thử lại"
+msgstr ""
+
+msgid "Hỗ trợ"
+msgstr ""
+
+msgid "Hỗ trợ in trên các máy in khổ 80mm và 58mm"
+msgstr ""
+
+msgid "Hỗ trợ khách hàng 1800 6162"
+msgstr ""
+
+msgid "Hủy"
+msgstr ""
+
+msgid "Hủy bỏ"
+msgstr ""
+
+msgid "Hủy món đã thông báo bếp với số lượng là"
+msgstr ""
+
+msgid "Hủy order không thành công"
+msgstr ""
+
+msgid "Hủy phiếu"
+msgstr ""
+
+msgid "Hủy thành công phiếu đặt bàn"
+msgstr ""
+
+msgid "Hủy đặt"
+msgstr ""
+
+msgid "Hủy đặt bàn không thành công do phiếu đặt đã được gán với đơn hàng."
+msgstr ""
+
+msgid "Hủy đặt bàn thành công"
+msgstr ""
+
+msgid "Hủy đặt chỗ"
+msgstr ""
+
+msgid "In"
+msgstr ""
+
+msgid "In Bar-Bếp"
+msgstr ""
+
+msgid "In phiếu"
+msgstr ""
+
+msgid "In trên nhiều máy in"
+msgstr ""
+
+msgid "KM"
+msgstr ""
+
+msgid "Khach can tra"
+msgstr ""
+
+msgid "Khi mua"
+msgstr ""
+
+msgid "Khu vực"
+msgstr ""
+
+msgid "Khu vực không hợp lệ"
+msgstr ""
+
+msgid "Khuyến mại"
+msgstr ""
+
+msgid ""
+"Khuyến mại này đã không còn hợp lệ nên bạn sẽ không thể áp dụng lại sau khi "
+"xóa. Bạn có chắc chắn muốn xóa không?"
+msgstr ""
+
+msgid "Khuyến mại trên"
+msgstr ""
+
+msgid "Khuyến mại trên hóa đơn"
+msgstr ""
+
+msgid "Khuyến mại đơn hàng"
+msgstr ""
+
+msgid "Khuyến mại:"
+msgstr ""
+
+msgid "Khác"
+msgstr ""
+
+msgid "Khách cần trả"
+msgstr ""
+
+msgid "Khách hàng"
+msgstr ""
+
+msgid "Khách hàng "
+msgstr ""
+
+msgid "Khách hàng không hợp lệ!"
+msgstr ""
+
+msgid ""
+"Khách hàng không được phép tích điểm, xin vui lòng xem lại thiết lập tính "
+"năng Tích điểm"
+msgstr ""
+
+msgid "Khách lẻ"
+msgstr ""
+
+msgid "Khách nhận bàn thành công"
+msgstr ""
+
+msgid "Khách thanh toán"
+msgstr ""
+
+msgid "Khách thanh toán (F8)"
+msgstr ""
+
+msgid "Khách đặt"
+msgstr ""
+
+msgid "Không"
+msgstr ""
+
+msgid "Không báo bếp khi thanh toán ."
+msgstr ""
+
+msgid "Không có Internet"
+msgstr ""
+
+msgid "Không có chương trình khuyến mại nào được áp dụng"
+msgstr ""
+
+msgid "Không có dữ liệu"
+msgstr ""
+
+msgid "Không có hàng hóa nào"
+msgstr ""
+
+msgid "Không có hóa đơn nào"
+msgstr ""
+
+msgid "Không có kết nối Internet, không thể thực hiện thao tác này"
+msgstr ""
+
+msgid "Không có kết nối Internet. Bạn vẫn có thể tạo phiếu đặt bàn offline"
+msgstr ""
+
+msgid "Không có kết nối internet. Giao dịch được lưu offline"
+msgstr ""
+
+msgid "Không có kết nối. Vui lòng kiểm tra lại kết nối."
+msgstr ""
+
+msgid "Không có lỗi in chế biến"
+msgstr ""
+
+msgid "Không có mặt hàng để hoàn trả đối với hóa đơn này"
+msgstr ""
+
+msgid "Không có nhóm khách hàng nào"
+msgstr ""
+
+msgid "Không có phiếu đã xếp bàn nào được chọn."
+msgstr ""
+
+msgid "Không có phiếu đặt nào"
+msgstr ""
+
+msgid "Không có phiếu đặt được chọn nào hợp lệ để hủy."
+msgstr ""
+
+msgid "Không có thông báo nào"
+msgstr ""
+
+msgid "Không có đơn chờ thanh toán"
+msgstr ""
+
+msgid "Không giao được hàng"
+msgstr ""
+
+msgid "Không hiển thị nhóm con trên danh sách nhóm hàng"
+msgstr ""
+
+msgid "Không hiển thị vì bạn không có quyền xem danh sách hóa đơn."
+msgstr ""
+
+msgid "Không in trên nhiều máy in"
+msgstr ""
+
+msgid "Không sắp xếp hàng hóa theo thứ tự bảng chữ cái"
+msgstr ""
+
+msgid "Không thể thực hiện ghép đơn - Bạn cần thông báo bếp cho các đơn hàng"
+msgstr ""
+
+msgid "Không thể tách đơn có chứa hàng khuyến mại"
+msgstr ""
+
+msgid "Không thể áp dụng hàng topping"
+msgstr ""
+
+msgid "Không thực hiện được vì Hóa đơn"
+msgstr ""
+
+msgid "Không thực hiện được: Quá thời gian gửi yêu cầu"
+msgstr ""
+
+msgid "Không tìm thấy hàng hóa nào"
+msgstr ""
+
+msgid "Không tìm thấy hàng hóa phù hợp"
+msgstr ""
+
+msgid "Không tìm thấy khách hàng"
+msgstr ""
+
+msgid "Không tìm thấy kết quả nào phù hợp"
+msgstr ""
+
+msgid "Không tìm thấy phiếu đặt bàn nào phù hợp"
+msgstr ""
+
+msgid "Không tìm thấy phòng/bàn nào"
+msgstr ""
+
+msgid "Không tìm thấy phòng/bàn nào phù hợp"
+msgstr ""
+
+msgid "Không tìm thấy sản phẩm"
+msgstr ""
+
+msgid "Không tìm thấy sản phẩm nào"
+msgstr ""
+
+msgid "Không tìm thấy sản phẩm phù hợp"
+msgstr ""
+
+msgid "Không tìm thấy đối tác giao hàng"
+msgstr ""
+
+msgid "Không tự động in hóa đơn"
+msgstr ""
+
+msgid "Không được phép xóa món đã thông báo bếp hoặc in."
+msgstr ""
+
+msgid "Không được phép xóa món đã thông báo cho nhà bếp!"
+msgstr ""
+
+msgid "Không đặt trước"
+msgstr ""
+
+msgid "Khổ A4"
+msgstr ""
+
+msgid "Khổ K80"
+msgstr ""
+
+msgid "Kiểm đồ"
+msgstr ""
+
+msgid "Km"
+msgstr ""
+
+msgid ""
+"Kết nối với máy in chế biến không ổn định. Vui lòng kiểm tra lại: <br/>\n"
+"        - Kết nối máy in (cáp, nguồn ...) và tình trạng máy in (kẹt giấy, "
+"hết giấy / mực, hết bộ nhớ...) <br/>\n"
+"        - Kết nối mạng\n"
+"        "
+msgstr ""
+
+msgid "Loại"
+msgstr ""
+
+msgid "Loại bỏ"
+msgstr ""
+
+msgid "Loại bỏ hàng khỏi danh sách"
+msgstr ""
+
+msgid "Loại khách"
+msgstr ""
+
+msgid "Loại phiếu"
+msgstr ""
+
+msgid "Loại thu"
+msgstr ""
+
+msgid "Loại đơn hàng"
+msgstr ""
+
+msgid "Loại đối tác"
+msgstr ""
+
+msgid "Làm mới"
+msgstr ""
+
+msgid "Lí do hủy"
+msgstr ""
+
+msgid "Lý do hủy"
+msgstr ""
+
+msgid "Lưu"
+msgstr ""
+
+msgid "Lưu khách hàng không thành công"
+msgstr ""
+
+msgid "Lưu phiếu đặt bàn thành công"
+msgstr ""
+
+msgid "Lưu đơn hàng"
+msgstr ""
+
+msgid "Lượt khách quá giờ"
+msgstr ""
+
+msgid "Lượt khách sắp đến"
+msgstr ""
+
+msgid "Lập phiếu thu"
+msgstr ""
+
+msgid "Lễ tân"
+msgstr ""
+
+msgid "Lịch sử"
+msgstr ""
+
+msgid "Lịch sử điểm"
+msgstr ""
+
+msgid "Lọc theo nhóm hàng"
+msgstr ""
+
+msgid "Lọc theo phòng bàn"
+msgstr ""
+
+msgid "Lỗi in chế biến"
+msgstr ""
+
+msgid "Lỗi khi in chế biến"
+msgstr ""
+
+msgid "Lỗi không lưu được phiếu offline."
+msgstr ""
+
+msgid "Lỗi tạo phiếu đặt bàn"
+msgstr ""
+
+msgid "Lựa chọn hiển thị"
+msgstr ""
+
+msgid "Mang về"
+msgstr ""
+
+msgid "Mua"
+msgstr ""
+
+msgid "Mua hàng khuyến mại hàng"
+msgstr ""
+
+msgid "Mua hàng tặng hàng"
+msgstr ""
+
+msgid "Mua hàng tặng điểm"
+msgstr ""
+
+msgid "Màn hình thu ngân đang được mở trên một tab khác"
+msgstr ""
+
+msgid "Máy in"
+msgstr ""
+
+msgid "Mã"
+msgstr ""
+
+msgid "Mã hàng hóa"
+msgstr ""
+
+msgid "Mã hóa đơn"
+msgstr ""
+
+msgid "Mã khách hàng"
+msgstr ""
+
+msgid "Mã khách hàng "
+msgstr ""
+
+msgid "Mã khách hàng không được bỏ trống"
+msgstr ""
+
+msgid "Mã mặc định"
+msgstr ""
+
+msgid "Mã phiếu"
+msgstr ""
+
+msgid "Mã phiếu đặt"
+msgstr ""
+
+msgid "Mã số thuế"
+msgstr ""
+
+msgid "Mã thu khác"
+msgstr ""
+
+msgid "Mã tự động"
+msgstr ""
+
+msgid "Mã vận đơn"
+msgstr ""
+
+msgid "Mã đặt bàn"
+msgstr ""
+
+msgid "Mã đặt bàn đang trống"
+msgstr ""
+
+msgid "Mã đối tác"
+msgstr ""
+
+msgid "Mã đối tác giao hàng"
+msgstr ""
+
+msgid "Mô tả"
+msgstr ""
+
+msgid "Mật khẩu"
+msgstr ""
+
+msgid "Mặt hàng"
+msgstr ""
+
+msgid "Mở thực đơn khi chọn bàn"
+msgstr ""
+
+msgid "Mức thu"
+msgstr ""
+
+msgid "Mức thu khác"
+msgstr ""
+
+msgid "Mức thu mới"
+msgstr ""
+
+msgid "NV nhận đặt"
+msgstr ""
+
+msgid "Nam"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Ngày"
+msgstr ""
+
+msgid "Ngày sinh"
+msgstr ""
+
+msgid "Ngày sinh không hợp lệ"
+msgstr ""
+
+msgid "Ngày tạo"
+msgstr ""
+
+msgid "Người bán"
+msgstr ""
+
+msgid "Người bán "
+msgstr ""
+
+msgid "Người lớn"
+msgstr ""
+
+msgid "Người nhận"
+msgstr ""
+
+msgid "Người nhận đơn"
+msgstr ""
+
+msgid "Người tạo"
+msgstr ""
+
+msgid "Ngồi tại bàn"
+msgstr ""
+
+msgid "Nhà bếp"
+msgstr ""
+
+msgid "Nhân viên"
+msgstr ""
+
+msgid "Nhân viên nhận đặt"
+msgstr ""
+
+msgid "Nhân viên nhận đặt bàn từ khách"
+msgstr ""
+
+msgid "Nhóm"
+msgstr ""
+
+msgid "Nhóm hàng"
+msgstr ""
+
+msgid "Nhóm đối tác"
+msgstr ""
+
+msgid "Nhận bàn"
+msgstr ""
+
+msgid "Nhận gọi món"
+msgstr ""
+
+msgid "Nhập hàng"
+msgstr ""
+
+msgid "Nội dung khuyến mại"
+msgstr ""
+
+msgid "Nợ hiện tại"
+msgstr ""
+
+msgid "Nợ hiện tại:"
+msgstr ""
+
+msgid "Nợ sau:"
+msgstr ""
+
+msgid "Nữ"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "PHÒNG/BÀN"
+msgstr ""
+
+msgid "Phiếu hàng đang trống"
+msgstr ""
+
+msgid "Phiếu này đang được phục vụ, phải hủy đơn trước khi hủy phiếu."
+msgstr ""
+
+msgid "Phiếu thanh toán"
+msgstr ""
+
+msgid "Phiếu đang gắn với đơn"
+msgstr ""
+
+msgid "Phiếu đặt bàn đã bị trùng với phiếu đã tồn tại trong hệ thống"
+msgstr ""
+
+msgid "Phí cần phải thanh toán cho đối tác giao hàng."
+msgstr ""
+
+msgid "Phí giao hàng"
+msgstr ""
+
+msgid "Phím tắt"
+msgstr ""
+
+msgid "Phím tắt chức năng"
+msgstr ""
+
+msgid "Phòng / Bàn"
+msgstr ""
+
+msgid "Phòng bàn"
+msgstr ""
+
+msgid "Phòng bàn của phiếu này đang được sử dụng"
+msgstr ""
+
+msgid "Phòng/Bàn"
+msgstr ""
+
+msgid "Phòng/bàn"
+msgstr ""
+
+msgid "Phóng to"
+msgstr ""
+
+msgid "Phường xã"
+msgstr ""
+
+msgid "Phường xã không hợp lệ"
+msgstr ""
+
+msgid "Quá giờ / Không đến"
+msgstr ""
+
+msgid "Quá trình tách đơn sẽ thông báo các thông tin trên đơn tách đến"
+msgstr ""
+
+msgid "Quét mã vạch cân điện tử"
+msgstr ""
+
+msgid "Quên mật khẩu?"
+msgstr ""
+
+msgid "Quản lý"
+msgstr ""
+
+msgid "SL dùng"
+msgstr ""
+
+msgid "SL gọi"
+msgstr ""
+
+msgid "SL trên đơn gốc"
+msgstr ""
+
+msgid "SL trả"
+msgstr ""
+
+msgid "SL tách"
+msgstr ""
+
+msgid "Sai Tên đăng nhập hoặc mật khẩu!."
+msgstr ""
+
+msgid "Sản phẩm"
+msgstr ""
+
+msgid "Sắp xếp hàng hóa theo thứ tự bảng chữ cái"
+msgstr ""
+
+msgid "Sắp xếp thứ tự"
+msgstr ""
+
+msgid "Số bản ghi:"
+msgstr ""
+
+msgid "Số bản in (Liên)"
+msgstr ""
+
+msgid "Số khách"
+msgstr ""
+
+msgid "Số khách không được là số âm."
+msgstr ""
+
+msgid "Số lượng"
+msgstr ""
+
+msgid "Số lượng hàng"
+msgstr ""
+
+msgid "Số lượng hàng hóa"
+msgstr ""
+
+msgid "Số lượng hủy"
+msgstr ""
+
+msgid "Số lượng khách"
+msgstr ""
+
+msgid "Số lượng khách hàng"
+msgstr ""
+
+msgid "Số lượng khách từ"
+msgstr ""
+
+msgid "Số lượng sản phẩm không hợp lệ"
+msgstr ""
+
+msgid "Số lần mua"
+msgstr ""
+
+msgid "Số tiền thanh toán bằng điểm phải chia hết cho "
+msgstr ""
+
+msgid "Số tiền vượt quá giá trị thanh toán bằng điểm cho phép"
+msgstr ""
+
+msgid "Số điện thoại"
+msgstr ""
+
+msgid "Số điện thoại "
+msgstr ""
+
+msgid "Số điện thoại:"
+msgstr ""
+
+msgid "Sử dụng"
+msgstr ""
+
+msgid "Sử dụng màn hình ngang hoặc"
+msgstr ""
+
+msgid "T2"
+msgstr ""
+
+msgid "T3"
+msgstr ""
+
+msgid "T4"
+msgstr ""
+
+msgid "T5"
+msgstr ""
+
+msgid "T6"
+msgstr ""
+
+msgid "T7"
+msgstr ""
+
+msgid "Thanh toán"
+msgstr ""
+
+msgid "Thanh toán (Enter)"
+msgstr ""
+
+msgid "Thanh toán (F9)"
+msgstr ""
+
+msgid "Thanh toán bằng điểm"
+msgstr ""
+
+msgid "Thanh toán hết"
+msgstr ""
+
+msgid "Thanh toán không thành công: Quá thời gian gửi thông báo"
+msgstr ""
+
+msgid "Thanh toán một phần"
+msgstr ""
+
+msgid "Thanh toán trả"
+msgstr ""
+
+msgid "Thanh toán(Sổ quỹ)"
+msgstr ""
+
+msgid "Thay đổi chế độ nhập số lượng"
+msgstr ""
+
+msgid ""
+"Thay đổi này sẽ làm mất thông tin phiếu đặt trên đơn hàng. Bạn có chắc chắn "
+"muốn tiếp tục?"
+msgstr ""
+
+msgid "Thay đổi sản phẩm"
+msgstr ""
+
+msgid "Thay đổi số lượng"
+msgstr ""
+
+msgid "Thay đổi số lượng khách hàng"
+msgstr ""
+
+msgid "Thay đổi số lượng món từ"
+msgstr ""
+
+msgid "Thay đổi thứ tự sắp xếp hàng hóa"
+msgstr ""
+
+msgid "Theo ghi chú"
+msgstr ""
+
+msgid "Theo ghi chú đặt"
+msgstr ""
+
+msgid "Theo giờ trên lịch"
+msgstr ""
+
+msgid "Theo giờ trên phiếu"
+msgstr ""
+
+msgid "Theo mã hóa đơn"
+msgstr ""
+
+msgid "Theo mã phiếu đặt"
+msgstr ""
+
+msgid "Theo mã đặt bàn"
+msgstr ""
+
+msgid "Theo mã, tên, SĐT khách đặt"
+msgstr ""
+
+msgid "Theo mã, tên, ĐT khách hàng"
+msgstr ""
+
+msgid "Theo món"
+msgstr ""
+
+msgid "Theo người nhận đặt"
+msgstr ""
+
+msgid "Theo phòng/bàn"
+msgstr ""
+
+msgid "Theo tên hoặc mã hàng"
+msgstr ""
+
+msgid "Thoát"
+msgstr ""
+
+msgid "Thu gọn"
+msgstr ""
+
+msgid "Thu hộ tiền"
+msgstr ""
+
+msgid "Thu khác"
+msgstr ""
+
+msgid "Thu ngân"
+msgstr ""
+
+msgid "Thu nhỏ"
+msgstr ""
+
+msgid "Thu trên hóa đơn"
+msgstr ""
+
+msgid "Thu từ khách"
+msgstr ""
+
+msgid "Tháng"
+msgstr ""
+
+msgid "Thêm khách hàng"
+msgstr ""
+
+msgid "Thêm món"
+msgstr ""
+
+msgid "Thêm mới"
+msgstr ""
+
+msgid "Thêm mới đơn tạm với"
+msgstr ""
+
+msgid "Thêm mới đặt bàn"
+msgstr ""
+
+msgid "Thêm mới đối tác giao hàng"
+msgstr ""
+
+msgid "Thêm phiếu đặt mới"
+msgstr ""
+
+msgid "Thêm tùy chọn mới"
+msgstr ""
+
+msgid "Thêm đơn hàng mới"
+msgstr ""
+
+msgid "Thêm đối tác giao hàng"
+msgstr ""
+
+msgid "Thông báo"
+msgstr ""
+
+msgid "Thông báo bếp không thành công: Quá thời gian gửi thông báo"
+msgstr ""
+
+msgid "Thông báo chuyển bàn không thành công!"
+msgstr ""
+
+msgid "Thông báo ghép hóa đơn không thành công!"
+msgstr ""
+
+msgid "Thông tin"
+msgstr ""
+
+msgid "Thông tin gọi món sẽ không được in ra tại máy in khu vực chế biến"
+msgstr ""
+
+msgid "Thông tin khách hàng được cập nhật thành công."
+msgstr ""
+
+msgid "Thông tin đối tác giao hàng được cập nhật thành công!"
+msgstr ""
+
+msgid "Thẻ"
+msgstr ""
+
+msgid "Thời gian"
+msgstr ""
+
+msgid "Thời gian chọn trên lịch không đúng với thời gian đặt trên phiếu?"
+msgstr ""
+
+msgid "Thời gian giao"
+msgstr ""
+
+msgid "Thời gian giao hàng phải sau thời gian hóa đơn"
+msgstr ""
+
+msgid "Thời gian sử dụng phải lớn hơn 0."
+msgstr ""
+
+msgid "Thời gian đặt"
+msgstr ""
+
+msgid "Thời lượng"
+msgstr ""
+
+msgid "Thời lượng dự kiến khách sẽ sử dụng bàn"
+msgstr ""
+
+msgid "Thực hiện"
+msgstr ""
+
+msgid "Thực đơn"
+msgstr ""
+
+msgid "Tiếp tục"
+msgstr ""
+
+msgid "Tiền mặt"
+msgstr ""
+
+msgid "Tiền thu"
+msgstr ""
+
+msgid "Tiền thừa trả khách"
+msgstr ""
+
+msgid "Tiền trả khách"
+msgstr ""
+
+msgid "Tiền trả khách (F8)"
+msgstr ""
+
+msgid "Trang cuối"
+msgstr ""
+
+msgid "Trang sau"
+msgstr ""
+
+msgid "Trang trước"
+msgstr ""
+
+msgid "Trang đầu"
+msgstr ""
+
+msgid ""
+"Trình duyệt đang chặn thông báo từ KiotViet. Kích vào \"Bảo mật\" trên "
+"đường dẫn URL, rồi chọn \"Luôn cho phép trên trang web này\" trong mục "
+"\"Thông báo\" để các tính năng thoạt động ổn định"
+msgstr ""
+
+msgid "Trạng thái"
+msgstr ""
+
+msgid "Trạng thái kết nối:"
+msgstr ""
+
+msgid "Trả hàng"
+msgstr ""
+
+msgid "Trả hàng (Enter)"
+msgstr ""
+
+msgid "Trả hàng nhà cung cấp"
+msgstr ""
+
+msgid "Trả hết"
+msgstr ""
+
+msgid "Trả hết hàng có khuyến mại"
+msgstr ""
+
+msgid "Trả món"
+msgstr ""
+
+msgid "Trả món cho khách"
+msgstr ""
+
+msgid "Trả nhanh"
+msgstr ""
+
+msgid "Trẻ em"
+msgstr ""
+
+msgid "Tuần"
+msgstr ""
+
+msgid ""
+"Tài khoản mật khẩu không chính xác hoặc tài khoản này chưa từng đăng nhập "
+"trên thiết bị này."
+msgstr ""
+
+msgid "Tài khoản nhận"
+msgstr ""
+
+msgid "Tách ghép đơn"
+msgstr ""
+
+msgid "Tách đơn"
+msgstr ""
+
+msgid "Tách đến"
+msgstr ""
+
+msgid "Tên chương trình"
+msgstr ""
+
+msgid "Tên gian hàng"
+msgstr ""
+
+msgid "Tên hàng hóa"
+msgstr ""
+
+msgid "Tên khách hàng"
+msgstr ""
+
+msgid "Tên khách hàng trống"
+msgstr ""
+
+msgid "Tên đăng nhập"
+msgstr ""
+
+msgid "Tên đối tác"
+msgstr ""
+
+msgid "Tìm hàng hóa"
+msgstr ""
+
+msgid "Tìm hàng hóa theo mã hoặc tên (F3)"
+msgstr ""
+
+msgid "Tìm hàng khuyến mại"
+msgstr ""
+
+msgid "Tìm hàng tặng"
+msgstr ""
+
+msgid "Tìm khách hàng"
+msgstr ""
+
+msgid "Tìm khách hàng (F4)"
+msgstr ""
+
+msgid "Tìm kiếm"
+msgstr ""
+
+msgid "Tìm kiếm nhóm hàng"
+msgstr ""
+
+msgid "Tìm kiếm phòng/bàn"
+msgstr ""
+
+msgid "Tìm phiếu đặt"
+msgstr ""
+
+msgid "Tìm phòng/bàn"
+msgstr ""
+
+msgid "Tìm phòng/bàn (F2)"
+msgstr ""
+
+msgid "Tìm sản phẩm (F3)"
+msgstr ""
+
+msgid "Tìm sản phẩm khuyến mại"
+msgstr ""
+
+msgid "Tìm theo khách đặt"
+msgstr ""
+
+msgid "Tìm đối tác giao hàng"
+msgstr ""
+
+msgid "Tính năng này chỉ có sẵn khi bạn đang online"
+msgstr ""
+
+msgid ""
+"Tính năng này cần cập nhật phiên bản mới nhất của KiotViet. Xin vui lòng "
+"click để cập nhật"
+msgstr ""
+
+msgid "Tính vào công nợ"
+msgstr ""
+
+msgid "Tùy chọn hiển thị"
+msgstr ""
+
+msgid "Tạo Phiếu thu Thành công"
+msgstr ""
+
+msgid "Tạo hóa đơn"
+msgstr ""
+
+msgid "Tạo phiếu"
+msgstr ""
+
+msgid "Tạo phiếu thu"
+msgstr ""
+
+msgid "Tạo phiếu thu & In"
+msgstr ""
+
+msgid "Tạo đơn mới"
+msgstr ""
+
+msgid "TẢI NGAY"
+msgstr ""
+
+msgid "Tải App ngay"
+msgstr ""
+
+msgid "Tất cả"
+msgstr ""
+
+msgid ""
+"Tất cả hàng trên đơn gốc đang được chọn để thanh toán. Bạn có chắc chắn "
+"muốn thanh toán hết đơn hàng?"
+msgstr ""
+
+msgid "Tắt chuông"
+msgstr ""
+
+msgid "Tắt chế độ quét mã vạch cân điện tử"
+msgstr ""
+
+msgid "Tắt chế độ tự động in"
+msgstr ""
+
+msgid "Tặng"
+msgstr ""
+
+msgid "Tặng hàng"
+msgstr ""
+
+msgid "Tặng điểm"
+msgstr ""
+
+msgid "Tồn"
+msgstr ""
+
+msgid "Tồn: "
+msgstr ""
+
+msgid "Tổng"
+msgstr ""
+
+msgid "Tổng cộng"
+msgstr ""
+
+msgid "Tổng giảm giá:"
+msgstr ""
+
+msgid "Tổng hóa đơn thanh toán:"
+msgstr ""
+
+msgid "Tổng tiền"
+msgstr ""
+
+msgid "Tổng tiền hàng"
+msgstr ""
+
+msgid "Tổng tiền hàng trả"
+msgstr ""
+
+msgid "Tổng tiền hàng từ"
+msgstr ""
+
+msgid "Tổng tiền khách thanh toán"
+msgstr ""
+
+msgid "Tổng tiền thanh toán quá lớn!"
+msgstr ""
+
+msgid "Tổng điểm"
+msgstr ""
+
+msgid "Từ"
+msgstr ""
+
+msgid "Từ ngày"
+msgstr ""
+
+msgid "Tự động in hóa đơn"
+msgstr ""
+
+msgid "Vui lòng chọn giờ khách đến"
+msgstr ""
+
+msgid "Vui lòng kiểm tra máy in và in lại các đơn gặp lỗi."
+msgstr ""
+
+msgid "Vui lòng nhập Mã đặt bàn không quá 50 kí tự."
+msgstr ""
+
+msgid "Vui lòng nhập số khách."
+msgstr ""
+
+msgid "Vui lòng nhập số điện thoại khách đặt."
+msgstr ""
+
+msgid "Vui lòng nhập thời gian sử dụng"
+msgstr ""
+
+msgid "Vui lòng nhập đầy đủ thông tin Chi nhánh và Phòng/Bàn khách sẽ sử dụng."
+msgstr ""
+
+msgid "Vui lòng nhập đầy đủ thông tin Phòng/Bàn khách sẽ sử dụng."
+msgstr ""
+
+msgid "Vui lòng nhập đầy đủ thông tin chi nhánh đặt, giờ đến và thời gian sử dụng"
+msgstr ""
+
+msgid "Vui lòng thêm thông tin khách đặt."
+msgstr ""
+
+msgid "Về sau"
+msgstr ""
+
+msgid "Về trước"
+msgstr ""
+
+msgid "Xem bàn trống"
+msgstr ""
+
+msgid "Xem báo cáo cuối ngày"
+msgstr ""
+
+msgid "Xem danh sách đặt bàn"
+msgstr ""
+
+msgid "Xem trước bản in"
+msgstr ""
+
+msgid "Xem/bỏ chế độ toàn khung"
+msgstr ""
+
+msgid "Xin chao"
+msgstr ""
+
+msgid "Xong"
+msgstr ""
+
+msgid "Xuất file"
+msgstr ""
+
+msgid "Xác nhận"
+msgstr ""
+
+msgid "Xác nhận giảm/hủy món"
+msgstr ""
+
+msgid "Xóa"
+msgstr ""
+
+msgid "Xóa KM"
+msgstr ""
+
+msgid "Xóa chọn tất cả"
+msgstr ""
+
+msgid "Xóa hàng hóa"
+msgstr ""
+
+msgid "Xóa khách hàng"
+msgstr ""
+
+msgid "Xóa món"
+msgstr ""
+
+msgid "Xóa đơn hàng với uuid"
+msgstr ""
+
+msgid "Xóa đặt bàn"
+msgstr ""
+
+msgid "Xóa đối tác giao hàng"
+msgstr ""
+
+msgid "Xóa ảnh"
+msgstr ""
+
+msgid "Yêu cầu chế biến"
+msgstr ""
+
+msgid "Yêu cầu thanh toán"
+msgstr ""
+
+msgid "bởi"
+msgstr ""
+
+msgid "cho"
+msgstr ""
+
+msgid "cho hóa đơn"
+msgstr ""
+
+msgid "cho món đã thông báo bếp"
+msgstr ""
+
+msgid "cho đơn hàng"
+msgstr ""
+
+msgid "chưa nhập số lượng"
+msgstr ""
+
+msgid "chưa sẵn sàng để in"
+msgstr ""
+
+msgid ""
+"có thể được sử dụng cho đơn hàng khác không? (Hệ thống sẽ cộng lại tồn kho "
+"cho hàng nguyên liệu khi phiếu trả hàng này được hoàn thành)"
+msgstr ""
+
+msgid "cùng loại"
+msgstr ""
+
+msgid "của món"
+msgstr ""
+
+msgid "của đơn hàng"
+msgstr ""
+
+msgid "dài quá 300 ký tự."
+msgstr ""
+
+msgid "giá"
+msgstr ""
+
+msgid "giảm giá"
+msgstr ""
+
+msgid "giảm giá sản phẩm"
+msgstr ""
+
+msgid "giờ"
+msgstr ""
+
+msgid "gửi yêu cầu chế biến"
+msgstr ""
+
+msgid "hoặc hàng hóa cùng loại"
+msgstr ""
+
+msgid "hàng hóa"
+msgstr ""
+
+msgid "hóa đơn"
+msgstr ""
+
+msgid "hết bộ nhớ đệm"
+msgstr ""
+
+msgid "khi mua"
+msgstr ""
+
+msgid "khác"
+msgstr ""
+
+msgid "khách"
+msgstr ""
+
+msgid "không tồn tại trong đơn hàng"
+msgstr ""
+
+msgid "không được bán trực tiếp"
+msgstr ""
+
+msgid "không?"
+msgstr ""
+
+msgid "khỏi hệ thống?"
+msgstr ""
+
+msgid "miễn cước"
+msgstr ""
+
+msgid "màn hình bán hàng sẽ được tải lại theo chi nhánh mới"
+msgstr ""
+
+msgid "màn hình ngang hoặc"
+msgstr ""
+
+msgid "ngày"
+msgstr ""
+
+msgid "này không?"
+msgstr ""
+
+msgid "phiếu"
+msgstr ""
+
+msgid "phiếu khác"
+msgstr ""
+
+msgid "phiếu đặt bàn"
+msgstr ""
+
+msgid "phiếu đặt đã hủy thành công."
+msgstr ""
+
+msgid "phiếu đặt được cập nhật thành công."
+msgstr ""
+
+msgid "phút"
+msgstr ""
+
+msgid "phải còn ít nhất 1 món"
+msgstr ""
+
+msgid "sản phẩm"
+msgstr ""
+
+msgid "sẽ bị hủy theo món này. Bạn có chắc chắn muốn hủy?"
+msgstr ""
+
+msgid "số lượng hàng khuyến mại đang nhỏ hơn số lượng tối đa cho phép"
+msgstr ""
+
+msgid "số lượng hàng tặng không được lớn hơn số lượng tối đa cho phép"
+msgstr ""
+
+msgid "tab cho màn hình thu ngân"
+msgstr ""
+
+msgid "thanh toán một phần trong"
+msgstr ""
+
+msgid "thành công"
+msgstr ""
+
+msgid "thông báo cho các yêu cầu thanh toán và cung ứng từ bếp"
+msgstr ""
+
+msgid "trên tổng số"
+msgstr ""
+
+msgid "trả lại"
+msgstr ""
+
+msgid "tách sang"
+msgstr ""
+
+msgid "tách từ"
+msgstr ""
+
+msgid "tất cả nhóm hàng"
+msgstr ""
+
+msgid "tặng"
+msgstr ""
+
+msgid "và dễ dàng hơn trên thiết bị này"
+msgstr ""
+
+msgid "vượt quá số lượng đã mua"
+msgstr ""
+
+msgid "với số lượng là"
+msgstr ""
+
+msgid "Áp dụng"
+msgstr ""
+
+msgid "Áp dụng khuyến mại"
+msgstr ""
+
+msgid "Đang giao hàng"
+msgstr ""
+
+msgid "Đang sử dụng"
+msgstr ""
+
+msgid "Đang tải hàng hóa"
+msgstr ""
+
+msgid "Đang đăng nhập"
+msgstr ""
+
+msgid "Đang đồng bộ"
+msgstr ""
+
+msgid "Điều chỉnh"
+msgstr ""
+
+msgid "Điểm"
+msgstr ""
+
+msgid "Điểm GD"
+msgstr ""
+
+msgid "Điểm hiện tại"
+msgstr ""
+
+msgid "Điểm sau GD"
+msgstr ""
+
+msgid "Điện thoại"
+msgstr ""
+
+msgid "Đã chế biến xong"
+msgstr ""
+
+msgid "Đã cung ứng"
+msgstr ""
+
+msgid "Đã hủy"
+msgstr ""
+
+msgid "Đã nhận bàn"
+msgstr ""
+
+msgid "Đã thanh toán"
+msgstr ""
+
+msgid "Đã thu trước"
+msgstr ""
+
+msgid "Đã xong/ Chờ cung ứng"
+msgstr ""
+
+msgid "Đã xếp bàn"
+msgstr ""
+
+msgid "Đóng"
+msgstr ""
+
+msgid "Đăng nhập"
+msgstr ""
+
+msgid "Đăng xuất"
+msgstr ""
+
+msgid "Đơn gốc"
+msgstr ""
+
+msgid "Đơn hàng"
+msgstr ""
+
+msgid "Đơn hàng không tồn tại hoặc đã bị thanh toán."
+msgstr ""
+
+msgid ""
+"Đơn hàng này đã được thông báo tới nhà bếp và các thiết bị khác, bạn có "
+"chắc chắc muốn hủy?"
+msgstr ""
+
+msgid "Đơn hàng đã được lưu!"
+msgstr ""
+
+msgid "Đơn hàng đã được thanh toán hoặc bị hủy"
+msgstr ""
+
+msgid "Đơn hàng đã được thanh toán!"
+msgstr ""
+
+msgid "Đặt"
+msgstr ""
+
+msgid "Đặt bàn"
+msgstr ""
+
+msgid "Đặt hàng"
+msgstr ""
+
+msgid "Đặt:"
+msgstr ""
+
+msgid "Đến"
+msgstr ""
+
+msgid "Đến ngày"
+msgstr ""
+
+msgid "Để thực hiện thao tác bán hàng linh hoạt"
+msgstr ""
+
+msgid "Địa chỉ"
+msgstr ""
+
+msgid "Đồ uống"
+msgstr ""
+
+msgid "Đồ ăn"
+msgstr ""
+
+msgid "Đồng bộ phiếu"
+msgstr ""
+
+msgid "Đồng bộ tất cả"
+msgstr ""
+
+msgid "Đồng giá"
+msgstr ""
+
+msgid "Đồng ý"
+msgstr ""
+
+msgid "đang bận"
+msgstr ""
+
+msgid "đang bị kẹt giấy"
+msgstr ""
+
+msgid "đang có hàng khuyến mại gắn kèm. Bạn không thể trả hết hàng đó."
+msgstr ""
+
+msgid "đang hết giấy"
+msgstr ""
+
+msgid "đang hết mực"
+msgstr ""
+
+msgid "đang phục vụ."
+msgstr ""
+
+msgid "đang được sử dụng."
+msgstr ""
+
+msgid "điểm"
+msgstr ""
+
+msgid "điểm cho hóa đơn"
+msgstr ""
+
+msgid "đã bị cập nhật bởi người dùng khác. Dữ liệu bạn đang thao tác sẽ bị ghi đè."
+msgstr ""
+
+msgid "đã bị hủy từ thiết bị khác"
+msgstr ""
+
+msgid "đã bị xóa"
+msgstr ""
+
+msgid "đã quá hạn được phép trả"
+msgstr ""
+
+msgid "đã thông báo đến bar/bếp. Bạn có chắc chắn muốn xóa không?"
+msgstr ""
+
+msgid "đã tồn tại trong hệ thống"
+msgstr ""
+
+msgid "đã tồn tại trong đơn hàng."
+msgstr ""
+
+msgid "đã được thanh toán từ thiết bị khác"
+msgstr ""
+
+msgid "được cộng"
+msgstr ""
+
+msgid "để lưu thay đổi và đồng bộ trên toàn hệ thống"
+msgstr ""
+
+msgid "đồng"
+msgstr ""
+
+msgid "Ưu tiên"
+msgstr ""
+
+msgid "Ẩn"
+msgstr ""
+
+msgid "Không cho phép áp dụng gộp chương trình khuyến mại, Vui lòng chỉ chọn một chương trình hoặc bỏ chọn khuyến mại đã áp dụng trước khi chọn chương trình khác"
+msgstr ""
