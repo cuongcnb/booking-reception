@@ -6,7 +6,7 @@ import { KvHelper } from '@shared/helpers';
 import { Branch } from '@core/models';
 import { Store } from '@ngrx/store';
 import { AppStates } from '@store/reducers';
-import { getSession, LogoutAction } from '@store/session';
+import { getSession, logoutAction } from '@store/session';
 import * as $ from 'jquery';
 
 @Component({
@@ -61,6 +61,6 @@ export class ReceptionHeaderComponent implements OnInit, OnDestroy, AfterContent
     }
 
     public logout() {
-        this.store.dispatch(new LogoutAction());
+        this.store.dispatch(logoutAction());
     }
 }

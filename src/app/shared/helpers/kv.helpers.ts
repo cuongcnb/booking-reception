@@ -1,4 +1,5 @@
 import { localStorageKey } from '../../app.constants';
+import { StringHelpers } from './string.helpers';
 
 export class KvHelper {
     static host: string;
@@ -165,6 +166,11 @@ export class KvHelper {
         }
         return decodeURIComponent(results[2].replace(/ +/g, ' '));
     }
+
+    static gettext(text) {
+        return StringHelpers.gettext(text);
+    }
 }
 
 (<any>(window)).KvHelpers = KvHelper;
+(<any>(window)).gettext = KvHelper.gettext;

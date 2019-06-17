@@ -7,8 +7,7 @@ import { Store, select } from '@ngrx/store';
 import { AppStates } from '@store/reducers';
 import { Router } from '@angular/router';
 import { DexieDb } from '@core/database/dexieDbContext';
-import { environment } from '@env/environment';
-import { isLoading, getLoginError, showCaptcha, isAuthenticated, DoLoginAction } from '@store/session';
+import { isLoading, getLoginError, showCaptcha, isAuthenticated, doLoginAction } from '@store/session';
 import { takeWhile, filter } from 'rxjs/operators';
 import { Go } from '@store/router-store';
 import { AuthService } from '@core/services';
@@ -80,7 +79,7 @@ export class LoginPageComponent implements OnInit, OnDestroy {
         //         const failNumber = parseInt(localStorage[localStorageKey.loginFailedNumber]) || 0;
         //         let allowedNumber = environment.AllowedLoginFailNumber || 10;
         //         if (failNumber > allowedNumber - 1 && isOnline) {
-        //             this.store.dispatch(new SetShowCaptchaAction(true));
+        //             this.store.dispatch(new SetShowCaptchaAction({show: true}));
         //         }
         //     });
     }
@@ -97,7 +96,7 @@ export class LoginPageComponent implements OnInit, OnDestroy {
         // const reCaptchaResponse = this.captcha.getResponse();
         // localStorage[localStorageKey.retailer] = (retailer || '').trim();
 
-        this.store.dispatch(new DoLoginAction({
+        this.store.dispatch(doLoginAction({
             retailer: retailer,
             username: username,
             password: password,

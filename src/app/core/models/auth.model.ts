@@ -1,11 +1,11 @@
 export class Auth {
-    BearerToken: String;
+    BearerToken: string;
 
-    SessionId: String;
+    SessionId: string;
 
     UserId: Number;
 
-    UserName: String;
+    UserName: string;
 
     BranchId: Number;
 }

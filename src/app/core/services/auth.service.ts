@@ -7,7 +7,7 @@ import * as R from 'ramda';
 import { AppStates } from '@store/reducers';
 import { Observable, of } from 'rxjs';
 import { localStorageKey } from '../../app.constants';
-import { SetSessionAction } from '@store/session/session.actions';
+import { setSessionAction } from '@store/session/session.actions';
 import { getSession } from '@store/session/session.selectors';
 import { KvHelper, SHA256Helper } from '@shared/helpers';
 
@@ -24,7 +24,7 @@ export class AuthService {
     constructor(private http: HttpClient,
         private store: Store<AppStates>) {
         if (localStorage[localStorageKey.session]) {
-            this.store.dispatch(new SetSessionAction(JSON.parse(localStorage[localStorageKey.session])));
+            this.store.dispatch(setSessionAction({session: JSON.parse(localStorage[localStorageKey.session])}));
         }
 
         this.store.pipe(
@@ -50,7 +50,9 @@ export class AuthService {
         //     })
         //     .map(resp => <Auth>resp.json())
         //     .catch(this.handleError);
-        return of({} as any);
+        return of({
+            BearerToken: 'xxx'
+        } as any);
     }
 
     /**
